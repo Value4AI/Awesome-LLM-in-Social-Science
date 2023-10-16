@@ -2,7 +2,7 @@
 
 Below we compile *awesome* papers that employ Large Language Models (LLMs) to create simulation environments, facilitating experimentation in diverse fields including Social Science, Economics, and Policy-making.
 
-Welcome to open an issue or submit a pull request!
+This is a preliminary repo. Welcome to contribute and discuss!
 
 ## Paper list
 
@@ -25,3 +25,4 @@ Welcome to open an issue or submit a pull request!
 - SocioDojo: Building Lifelong Analytical Agents with Real-world Text and Time Series, 2023, [[paper]](https://openreview.net/forum?id=s9z0HzWJJp)
 - SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents, 2023, [[paper]](https://drive.google.com/file/d/1Y0f7qovlfNR6g4Z0LG32HTnY7jvEYeR9/view)
 - Exploring Collaboration Mechanisms for LLM Agents: A Social Psychology View, 2023, [[paper]](https://arxiv.org/abs/2310.02124), [[code]](https://github.com/zjunlp/MachineSoM)
+- Humanoid Agents: Platform for Simulating Human-like Generative Agents, 2023, [[paper]](https://arxiv.org/abs/2310.05418), [[code]](https://github.com/HumanoidAgents/HumanoidAgents).
