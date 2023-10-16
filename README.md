@@ -1,6 +1,6 @@
 # Awesome-LLM-for-Simulation
 
-This is a paper list about Large Language Models for Simulation.
+Below we compile *awesome* papers that employ Large Language Models (LLMs) to create simulation environments, facilitating experimentation in diverse fields including Social Science, Economics, and Policy-making.
 
 Welcome to open an issue or submit a pull request!
 
