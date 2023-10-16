@@ -12,6 +12,7 @@ Welcome to open an issue or submit a pull request!
 
 ---
 
+- Social Simulacra: Creating Populated Prototypes for Social Computing Systems, 2022, [[paper]](https://dl.acm.org/doi/abs/10.1145/3526113.3545616)
 - Can Large Language Models Transform Computational Social Science?, 2023, [[paper]](https://arxiv.org/abs/2305.03514), [[code]](https://github.com/SALT-NLP/LLMs_for_CSS).
 - Generative Agents: Interactive Simulacra of Human Behavior, 2023, [[paper]](https://arxiv.org/abs/2304.03442), [[code]](https://github.com/joonspk-research/generative_agents).
 - Using Large Language Models to Simulate Multiple Humans and Replicate Human Subject Studies, 2023, [[paper]](https://arxiv.org/abs/2208.10264), [[code]](https://github.com/GatiAher/Using-Large-Language-Models-to-Replicate-Human-Subject-Studies).
