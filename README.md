@@ -23,4 +23,4 @@ Welcome to open an issue or submit a pull request!
 - Lyfe Agents: generative agents for low-cost real-time social interactions, 2023, [[paper]](https://arxiv.org/abs/2310.02172)
 - SocioDojo: Building Lifelong Analytical Agents with Real-world Text and Time Series, 2023, [[paper]](https://openreview.net/forum?id=s9z0HzWJJp)
 - SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents, 2023, [[paper]](https://drive.google.com/file/d/1Y0f7qovlfNR6g4Z0LG32HTnY7jvEYeR9/view)
-- Exploring Collaboration Mechanisms for LLM Agents: A Social Psychology View, 2023, [[paper]](https://arxiv.org/abs/2310.02124)
+- Exploring Collaboration Mechanisms for LLM Agents: A Social Psychology View, 2023, [[paper]](https://arxiv.org/abs/2310.02124), [[code]](https://github.com/zjunlp/MachineSoM)
