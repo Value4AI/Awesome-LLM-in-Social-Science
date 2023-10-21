@@ -26,3 +26,7 @@ This is a preliminary repo. Welcome to contribute and discuss!
 - SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents, 2023, [[paper]](https://drive.google.com/file/d/1Y0f7qovlfNR6g4Z0LG32HTnY7jvEYeR9/view)
 - Exploring Collaboration Mechanisms for LLM Agents: A Social Psychology View, 2023, [[paper]](https://arxiv.org/abs/2310.02124), [[code]](https://github.com/zjunlp/MachineSoM)
 - Humanoid Agents: Platform for Simulating Human-like Generative Agents, 2023, [[paper]](https://arxiv.org/abs/2310.05418), [[code]](https://github.com/HumanoidAgents/HumanoidAgents).
+
+---
+
+LLM as optimizers: https://github.com/AGI-Edgerunners/LLM-Optimizers-Papers
