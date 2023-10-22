@@ -104,6 +104,12 @@ This is a preliminary repo. Welcome to contribute and discuss!
 
   TL;DR:
 
+- **Large Language Model-Empowered Agents for Simulating Macroeconomic Activities**, 2023, [[paper]](https://arxiv.org/abs/2310.10436).
+
+  Key words:
+
+  TL;DR:
+
 ---
 
-Also see LLM as optimizers: https://github.com/AGI-Edgerunners/LLM-Optimizers-Papers
+You may also be interested in LLM as optimizers: https://github.com/AGI-Edgerunners/LLM-Optimizers-Papers
