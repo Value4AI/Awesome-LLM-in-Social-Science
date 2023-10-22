@@ -106,9 +106,9 @@ This is a preliminary repo. Welcome to contribute and discuss!
 
 - **Large Language Model-Empowered Agents for Simulating Macroeconomic Activities**, 2023, [[paper]](https://arxiv.org/abs/2310.10436).
 
-  Key words:
+  Key words: macroeconomic simulation, agent-based modeling, prompt-engineering, perception/reflection/decision-making abilities
 
-  TL;DR:
+  TL;DR: The paper leverages LLM-based agents for macroeconomic simulation. Experiments show the LLM-based agents make realistic decisions, reproducing classic macro phenomena better than rule-based or other AI agents.
 
 ---
 
