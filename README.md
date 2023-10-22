@@ -16,99 +16,99 @@ This is a preliminary repo. Welcome to contribute and discuss!
 
 - **Social Simulacra: Creating Populated Prototypes for Social Computing Systems**, 2022, [[paper]](https://dl.acm.org/doi/abs/10.1145/3526113.3545616)
 
-  Key words:
+  Keywords:
 
   TL;DR:
 
 - **Can Large Language Models Transform Computational Social Science?**, 2023, [[paper]](https://arxiv.org/abs/2305.03514), [[code]](https://github.com/SALT-NLP/LLMs_for_CSS).
 
-  Key words:
+  Keywords:
 
   TL;DR: 
 
 - **Generative Agents: Interactive Simulacra of Human Behavior**, 2023, [[paper]](https://arxiv.org/abs/2304.03442), [[code]](https://github.com/joonspk-research/generative_agents).
 
-  Key words:
+  Keywords:
 
   TL;DR: 
 
 - **Using Large Language Models to Simulate Multiple Humans and Replicate Human Subject Studies**, 2023, [[paper]](https://arxiv.org/abs/2208.10264), [[code]](https://github.com/GatiAher/Using-Large-Language-Models-to-Replicate-Human-Subject-Studies).
 
-  Key words:
+  Keywords:
 
   TL;DR:
 
 - **$S^3$: Social-network Simulation System with Large Language Model-Empowered Agents**, 2023, [[paper]](https://arxiv.org/abs/2307.14984).
 
-  Key words:
+  Keywords:
 
   TL;DR: 
 
 - **Training Socially Aligned Language Models in Simulated Human Society**, 2023, [[paper]](https://arxiv.org/abs/2305.16960), [[code]](https://github.com/agi-templar/Stable-Alignment).
 
-  Key words:
+  Keywords:
 
   TL;DR: 
 
 - **Large Language Models as Simulated Economic Agents: What Can We Learn from Homo Silicus?**, 2023 [[paper]](https://www.nber.org/papers/w31122), [[code]](https://github.com/johnjosephhorton/homo_silicus)
 
-  Key words:
+  Keywords:
 
   TL;DR:
 
 - **Evaluating Large Language Models in Generating Synthetic HCI Research Data: a Case Study**, 2023, [[paper]](https://dl.acm.org/doi/abs/10.1145/3544548.3580688)
 
-  Key words:
+  Keywords:
 
   TL;DR:
 
 - **Rethinking the Buyer’s Inspection Paradox in Information Markets with Language Agents**, 2023, [[paper]](https://openreview.net/forum?id=6werMQy1uz)
 
-  Key words:
+  Keywords: buyer’s inspection paradox, information market, agents, economics, language model
 
-  TL;DR:
+  TL;DR: This work explores the buyer's inspection paradox in a simulated digital marketplace, highlighting enhanced decision-making and answer quality when agents temporarily access information before purchase.
   
 - **Lyfe Agents: generative agents for low-cost real-time social interactions**, 2023, [[paper]](https://arxiv.org/abs/2310.02172)
 
-  Key words:
+  Keywords:
 
   TL;DR:
 
 - **SocioDojo: Building Lifelong Analytical Agents with Real-world Text and Time Series**, 2023, [[paper]](https://openreview.net/forum?id=s9z0HzWJJp)
 
-  Key words:
+  Keywords:
 
   TL;DR:
 
 - **SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents**, 2023, [[paper]](https://drive.google.com/file/d/1Y0f7qovlfNR6g4Z0LG32HTnY7jvEYeR9/view)
 
-  Key words:
+  Keywords:
 
   TL;DR:
 
 - **Exploring Collaboration Mechanisms for LLM Agents: A Social Psychology View**, 2023, [[paper]](https://arxiv.org/abs/2310.02124), [[code]](https://github.com/zjunlp/MachineSoM)
 
-  Key words:
+  Keywords:
 
   TL;DR:
 
 - **Humanoid Agents: Platform for Simulating Human-like Generative Agents**, 2023, [[paper]](https://arxiv.org/abs/2310.05418), [[code]](https://github.com/HumanoidAgents/HumanoidAgents).
 
-  Key words:
+  Keywords:
 
   TL;DR:
   
 - **When Large Language Model based Agent Meets User Behavior Analysis: A Novel User Simulation Paradigm**, 2023, [[paper]](https://arxiv.org/abs/2306.02552), [[code]](https://github.com/RUC-GSAI/YuLan-Rec).
 
-  Key words: user behavior analysis, user simulation, recommender system, profiling/memory/action module
+  Keywords: user behavior analysis, user simulation, recommender system, profiling/memory/action module
 
   TL;DR:
 
 - **Large Language Model-Empowered Agents for Simulating Macroeconomic Activities**, 2023, [[paper]](https://arxiv.org/abs/2310.10436).
 
-  Key words: macroeconomic simulation, agent-based modeling, prompt-engineering, perception/reflection/decision-making abilities
+  Keywords: macroeconomic simulation, agent-based modeling, prompt-engineering, perception/reflection/decision-making abilities
 
-  TL;DR: The paper leverages LLM-based agents for macroeconomic simulation. Experiments show the LLM-based agents make realistic decisions, reproducing classic macro phenomena better than rule-based or other AI agents.
+  TL;DR: This work leverages LLM-based agents for macroeconomic simulation. Experiments show the LLM-based agents make realistic decisions, reproducing classic macro phenomena better than rule-based or other AI agents.
 
 ---
 
