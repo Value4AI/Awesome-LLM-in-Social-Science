@@ -64,9 +64,9 @@ This is a preliminary repo. Welcome to contribute and discuss!
 
 - **Rethinking the Buyer’s Inspection Paradox in Information Markets with Language Agents**, 2023, [[paper]](https://openreview.net/forum?id=6werMQy1uz)
 
-  Keywords: buyer’s inspection paradox, information market, agents, economics, language model
+  Keywords: buyer’s inspection paradox, information economics, information market, language model, agent
 
-  TL;DR: This work explores the buyer's inspection paradox in a simulated digital marketplace, highlighting enhanced decision-making and answer quality when agents temporarily access information before purchase.
+  TL;DR: This work explores the buyer's inspection paradox in a simulated information marketplace, highlighting enhanced decision-making and answer quality when agents temporarily access information before purchase.
   
 - **Lyfe Agents: generative agents for low-cost real-time social interactions**, 2023, [[paper]](https://arxiv.org/abs/2310.02172)
 
