@@ -102,7 +102,7 @@ This is a preliminary repo. Welcome to contribute and discuss!
 
   Keywords: user behavior analysis, user simulation, recommender system, profiling/memory/action module
 
-  TL;DR:
+  TL;DR: This work employs LLM for user simulation in recommender systems. The experiments demonstrate the superiority of RecAgent over baseline simulation systems and its ability to generate reliable user behaviors.
 
 - **Large Language Model-Empowered Agents for Simulating Macroeconomic Activities**, 2023, [[paper]](https://arxiv.org/abs/2310.10436).
 
