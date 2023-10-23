@@ -112,9 +112,9 @@ This is a preliminary repo. Welcome to contribute and discuss!
 
 - **Using large language models in psychology**, 2023, [[paper]](https://www.nature.com/articles/s44159-023-00241-5).
 
-  Keywords:
+  Keywords: LLM, psychology, applications, measurement
 
-  TL;DR:
+  TL;DR: This paper explores the potential applications and concerns of using LLMs in psychological research, and recommends investments in high-quality datasets, performance benchmarks, and infrastructure to enable responsible use of LLMs.
 
 ---
 
