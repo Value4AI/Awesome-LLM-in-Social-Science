@@ -94,9 +94,9 @@ This is a preliminary repo. Welcome to contribute and discuss!
 
 - **Humanoid Agents: Platform for Simulating Human-like Generative Agents**, 2023, [[paper]](https://arxiv.org/abs/2310.05418), [[code]](https://github.com/HumanoidAgents/HumanoidAgents).
 
-  Keywords:
+  Keywords: humanoid agents, generative agents, basic needs, emotions, relationships
 
-  TL;DR:
+  TL;DR: This paper proposes Humanoid Agents, a system that guides generative agents to behave more like humans by introducing dynamic elements that affect behavior - basic needs like hunger and rest, emotions, and relationship closeness.
   
 - **When Large Language Model based Agent Meets User Behavior Analysis: A Novel User Simulation Paradigm**, 2023, [[paper]](https://arxiv.org/abs/2306.02552), [[code]](https://github.com/RUC-GSAI/YuLan-Rec).
 
