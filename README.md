@@ -17,7 +17,7 @@ This is a preliminary repo. Welcome to contribute and discuss!
 
 ---
 
-- **Social Simulacra: Creating Populated Prototypes for Social Computing Systems**, 2022, [[paper]](https://dl.acm.org/doi/abs/10.1145/3526113.3545616)
+- **Social Simulacra: Creating Populated Prototypes for Social Computing Systems**, 2022, [[paper]](https://dl.acm.org/doi/abs/10.1145/3526113.3545616).
 
   Keywords:
 
@@ -53,43 +53,43 @@ This is a preliminary repo. Welcome to contribute and discuss!
 
   TL;DR: 
 
-- **Large Language Models as Simulated Economic Agents: What Can We Learn from Homo Silicus?**, 2023 [[paper]](https://www.nber.org/papers/w31122), [[code]](https://github.com/johnjosephhorton/homo_silicus)
+- **Large Language Models as Simulated Economic Agents: What Can We Learn from Homo Silicus?**, 2023 [[paper]](https://www.nber.org/papers/w31122), [[code]](https://github.com/johnjosephhorton/homo_silicus).
 
   Keywords:
 
   TL;DR:
 
-- **Evaluating Large Language Models in Generating Synthetic HCI Research Data: a Case Study**, 2023, [[paper]](https://dl.acm.org/doi/abs/10.1145/3544548.3580688)
+- **Evaluating Large Language Models in Generating Synthetic HCI Research Data: a Case Study**, 2023, [[paper]](https://dl.acm.org/doi/abs/10.1145/3544548.3580688).
 
   Keywords:
 
   TL;DR:
 
-- **Rethinking the Buyer’s Inspection Paradox in Information Markets with Language Agents**, 2023, [[paper]](https://openreview.net/forum?id=6werMQy1uz)
+- **Rethinking the Buyer’s Inspection Paradox in Information Markets with Language Agents**, 2023, [[paper]](https://openreview.net/forum?id=6werMQy1uz).
 
   Keywords: buyer’s inspection paradox, information economics, information market, language model, agent
 
   TL;DR: This work explores the buyer's inspection paradox in a simulated information marketplace, highlighting enhanced decision-making and answer quality when agents temporarily access information before purchase.
   
-- **Lyfe Agents: generative agents for low-cost real-time social interactions**, 2023, [[paper]](https://arxiv.org/abs/2310.02172)
+- **Lyfe Agents: generative agents for low-cost real-time social interactions**, 2023, [[paper]](https://arxiv.org/abs/2310.02172).
 
   Keywords:
 
   TL;DR:
 
-- **SocioDojo: Building Lifelong Analytical Agents with Real-world Text and Time Series**, 2023, [[paper]](https://openreview.net/forum?id=s9z0HzWJJp)
+- **SocioDojo: Building Lifelong Analytical Agents with Real-world Text and Time Series**, 2023, [[paper]](https://openreview.net/forum?id=s9z0HzWJJp).
 
   Keywords:
 
   TL;DR:
 
-- **SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents**, 2023, [[paper]](https://drive.google.com/file/d/1Y0f7qovlfNR6g4Z0LG32HTnY7jvEYeR9/view)
+- **SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents**, 2023, [[paper]](https://arxiv.org/pdf/2310.11667.pdf), [[code]](https://www.sotopia.world/).
 
-  Keywords:
+  Keywords: social intelligence, interactive evaluation, language agents, goal-driven interaction, multi-agent simulation, commonsense reasoning
 
-  TL;DR:
+  TL;DR: The paper introduces SOTOPIA, a novel interactive environment for evaluating social intelligence in language agents through goal-driven social interactions. Experiments using SOTOPIA reveal gaps between SOTA models and human social intelligence, despite models showing some promising capabilities.
 
-- **Exploring Collaboration Mechanisms for LLM Agents: A Social Psychology View**, 2023, [[paper]](https://arxiv.org/abs/2310.02124), [[code]](https://github.com/zjunlp/MachineSoM)
+- **Exploring Collaboration Mechanisms for LLM Agents: A Social Psychology View**, 2023, [[paper]](https://arxiv.org/abs/2310.02124), [[code]](https://github.com/zjunlp/MachineSoM).
 
   Keywords: multi-agent systems, LLMs, collaboration strategies, social psychology, debate vs. reflection, conformity and majority rule
 
