@@ -91,9 +91,9 @@ This is a preliminary repo. Welcome to contribute and discuss!
 
 - **Exploring Collaboration Mechanisms for LLM Agents: A Social Psychology View**, 2023, [[paper]](https://arxiv.org/abs/2310.02124), [[code]](https://github.com/zjunlp/MachineSoM)
 
-  Keywords:
+  Keywords: multi-agent systems, LLMs, collaboration strategies, social psychology, debate vs. reflection, conformity and majority rule
 
-  TL;DR:
+  TL;DR: This paper explores collaboration mechanisms among LLMs in a multi-agent system by drawing insights from social psychology. Multi-agent collaboration strategies are more important than scaling up single LLMs; fostering effective collaboration is key for more socially-aware AI.
 
 - **Humanoid Agents: Platform for Simulating Human-like Generative Agents**, 2023, [[paper]](https://arxiv.org/abs/2310.05418), [[code]](https://github.com/HumanoidAgents/HumanoidAgents).
 
