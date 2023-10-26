@@ -43,15 +43,9 @@ This is a preliminary repo. Welcome to contribute and discuss!
 
 - **$S^3$: Social-network Simulation System with Large Language Model-Empowered Agents**, 2023, [[paper]](https://arxiv.org/abs/2307.14984).
 
-  Keywords:
+  Keywords: social network simulation, agent-based simulation, information/attitude/emotion propagation, user behavior modeling
 
-  TL;DR: 
-
-- **Training Socially Aligned Language Models in Simulated Human Society**, 2023, [[paper]](https://arxiv.org/abs/2305.16960), [[code]](https://github.com/agi-templar/Stable-Alignment).
-
-  Keywords:
-
-  TL;DR: 
+  TL;DR: This paper introduces the Social-network Simulation System (S3) to simulate social networks via LLM-based agents. Evaluation using two real-world scenarios, namely gender discrimination and nuclear energy, display high accuracy in replicating individual attitudes, emotions, and behaviors, as well as successfully modeling the phenomena of information, attitude, and emotion propagation at the population level.
 
 - **Large Language Models as Simulated Economic Agents: What Can We Learn from Homo Silicus?**, 2023 [[paper]](https://www.nber.org/papers/w31122), [[code]](https://github.com/johnjosephhorton/homo_silicus).
 
