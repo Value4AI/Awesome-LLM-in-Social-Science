@@ -19,9 +19,9 @@ This is a preliminary repo. Welcome to contribute and discuss!
 
 - **Social Simulacra: Creating Populated Prototypes for Social Computing Systems**, 2022, [[paper]](https://dl.acm.org/doi/abs/10.1145/3526113.3545616).
 
-  Keywords:
+  Keywords: social computing prototypes, social simulacra, LLMs, system design refinement
 
-  TL;DR:
+  TL;DR: This paper proposes Social Simulacra, a social computing prototype, to mimic authentic social interactions within a system populated by diverse community members, each with distinct behaviors such as posts, replies, and anti-social tendencies.
 
 - **Can Large Language Models Transform Computational Social Science?**, 2023, [[paper]](https://arxiv.org/abs/2305.03514), [[code]](https://github.com/SALT-NLP/LLMs_for_CSS).
 
