@@ -79,9 +79,9 @@ This is a preliminary repo. Welcome to contribute and discuss!
 
 - **SocioDojo: Building Lifelong Analytical Agents with Real-world Text and Time Series**, 2023, [[paper]](https://openreview.net/forum?id=s9z0HzWJJp).
 
-  Keywords:
+  Keywords: lifelong learning, human society analysis, hyperportfolio, time series investment, Analyst-Assistant-Actuator architecture, Hypothesis and Proof prompting
 
-  TL;DR:
+  TL;DR: The paper introduces SocioDojo, a new environment and hyperportfolio task for training lifelong agents to analyze and make decisions about human society, along with a novel Analyst-Assistant-Actuator architecture and Hypothesis & Proof prompting technique. Experiments show the proposed method achieves over 30% higher returns compared to state-of-the-art methods in the hyperportfolio task requiring societal understanding.
 
 - **SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents**, 2023, [[paper]](https://arxiv.org/pdf/2310.11667.pdf), [[code]](https://www.sotopia.world/).
 
