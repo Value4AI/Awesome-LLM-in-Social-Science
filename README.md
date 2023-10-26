@@ -55,15 +55,9 @@ This is a preliminary repo. Welcome to contribute and discuss!
 
 - **Large Language Models as Simulated Economic Agents: What Can We Learn from Homo Silicus?**, 2023 [[paper]](https://www.nber.org/papers/w31122), [[code]](https://github.com/johnjosephhorton/homo_silicus).
 
-  Keywords:
+  Keywords: simulated economic agents, Homo Silicus, Behavioral Economics
 
-  TL;DR:
-
-- **Evaluating Large Language Models in Generating Synthetic HCI Research Data: a Case Study**, 2023, [[paper]](https://dl.acm.org/doi/abs/10.1145/3544548.3580688).
-
-  Keywords:
-
-  TL;DR:
+  TL;DR: LLMs can be used like economists use homo economicus. Experiments using LLMs show qualitatively similar results to the original economic research. It is promising to use LLM to search for novel social science insights to test in the real world.
 
 - **Rethinking the Buyer’s Inspection Paradox in Information Markets with Language Agents**, 2023, [[paper]](https://openreview.net/forum?id=6werMQy1uz).
 
