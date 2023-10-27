@@ -66,6 +66,12 @@ This is a preliminary repo. Welcome to contribute and discuss!
   
   TL;DR: This paper proposed empirical designs to measure political bias in ChatGPT, showing that ChatGPT exhibits a significant and systematic political bias towards the Democrats in the US, Lula in Brazil, and the Labour Party in the UK.
 
+- **Probing the Moral Development of Large Language Models through Defining Issues Test**
+
+  Keywords: moral development, defining issues test, ethical reasoning, alignment
+
+  TL;DR: Defining Issues Test (DIT) based on Kohlberg's model of moral development is used to evaluate the ethical reasoning abilities of LLMs. GPT-3 performs at random baseline level while GPT-4 achieves the highest moral development score equivalent to graduate students.
+
 ---
 ### Alignment
 
