@@ -60,6 +60,12 @@ This is a preliminary repo. Welcome to contribute and discuss!
 
   TL;DR: This paper explores the potential applications and concerns of using LLMs in psychological research, and recommends investments in high-quality datasets, performance benchmarks, and infrastructure to enable responsible use of LLMs.
 
+- **More human than human: measuring ChatGPT political bias**, 2023, [[paper]](https://link.springer.com/article/10.1007/s11127-023-01097-2).
+
+  Keywords: political bias, large language model, ChatGPT, algorithmic bias, empirical methods
+  
+  TL;DR: This paper proposed empirical designs to measure political bias in ChatGPT, showing that ChatGPT exhibits a significant and systematic political bias towards the Democrats in the US, Lula in Brazil, and the Labour Party in the UK.
+
 ---
 ### Alignment
 
