@@ -77,6 +77,12 @@ This is a preliminary repo. Welcome to contribute and discuss!
 ---
 ### Alignment
 
+- **Fine-tuning language models to find agreement among humans with diverse preferences**, 2022, [[paper]](https://arxiv.org/abs/2211.15006).
+
+  Keywords: consensus, fine-tuning, diverse preferences, alignment
+
+  TL;DR: This work fine-tunes LLM to generate statements that maximize the expected approval for a group of people with potentially diverse opinions, especially on moral and political issues.
+
 - **Training Socially Aligned Language Models in Simulated Human Society**, 2023, [[paper]](https://arxiv.org/abs/2305.16960), [[code]](https://github.com/agi-templar/Stable-Alignment).
 
   Keywords: Stable Alignment, social alignment, societal norms and values, simulated social interactions, contrastive supervised learning
