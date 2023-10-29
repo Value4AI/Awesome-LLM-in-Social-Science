@@ -135,6 +135,11 @@ This is a preliminary repo. Welcome to contribute and discuss!
 
   TL;DR: This work leverages LLM-based agents for macroeconomic simulation. Experiments show the LLM-based agents make realistic decisions, reproducing classic macro phenomena better than rule-based or other AI agents.
 
+- **Generative Agent-Based Modeling: Unveiling Social System Dynamics through Coupling Mechanistic Models with Generative Artificial Intelligence**, 2023, [[paper]](https://arxiv.org/abs/2309.11456).
+
+  Keywords: Generative Agend-Based Modeling, norm diffusion, social dynamics
+
+  TL;DR: The authors demonstrate Generative Agent-Based Modeling (GABM) through a simple model of norm diffusion, where agents decide on wearing green or blue shirts based on peer influence. The results show emergence of group norms, sensitivity to agent personas, and conformity to asymmetric adoption forces.
 
 ---
 
