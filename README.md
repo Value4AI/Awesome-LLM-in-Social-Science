@@ -26,6 +26,12 @@ This is a preliminary repo. Welcome to contribute and discuss!
 
 ### Evaluation
 
+- **Out of One, Many: Using Language Models to Simulate Human Samples**, 2022, [[paper]](https://arxiv.org/abs/2209.06899).
+
+  Keywords: algorithmic fidelity, public opinion, political attitude
+
+  TL;DR: This work introduces "algorithmic fidelity" - the degree to which the relationships between ideas, attitudes, and contexts in a model mirror those in human groups. They propose 4 criteria for assessing algorithmic fidelity and demonstrate that GPT-3 exhibits a high degree of fidelity for modeling public opinion and political attitudes in the U.S.
+
 - **Can Large Language Models Transform Computational Social Science?**, 2023, [[paper]](https://arxiv.org/abs/2305.03514), [[code]](https://github.com/SALT-NLP/LLMs_for_CSS).
 
   Keywords: Computational Social Science (CSS), evaluation
