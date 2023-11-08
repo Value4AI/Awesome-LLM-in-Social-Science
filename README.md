@@ -80,6 +80,12 @@ This is a preliminary repo. Welcome to contribute and discuss!
 
   TL;DR: Defining Issues Test (DIT) based on Kohlberg's model of moral development is used to evaluate the ethical reasoning abilities of LLMs. GPT-3 performs at random baseline level while GPT-4 achieves the highest moral development score equivalent to graduate students.
 
+- **Playing repeated games with Large Language Models**, 2023.05, [[paper]](https://arxiv.org/abs/2305.16867).
+  
+  Keywords: games, cooperation, coordination, behavioral analysis
+
+  TL;DR: This paper studies Large Language Models' (LLMs) cooperative and coordinated behavior by letting them play repeated 2-player games. The key findings are that LLMs like GPT-4 perform well in competitive games but struggle to coordinate and alternate strategies in games requiring more cooperation.
+
 ---
 ### Alignment
 
@@ -152,6 +158,12 @@ This is a preliminary repo. Welcome to contribute and discuss!
   Keywords: Generative Agend-Based Modeling, norm diffusion, social dynamics
 
   TL;DR: The authors demonstrate Generative Agent-Based Modeling (GABM) through a simple model of norm diffusion, where agents decide on wearing green or blue shirts based on peer influence. The results show emergence of group norms, sensitivity to agent personas, and conformity to asymmetric adoption forces.
+
+- **Epidemic Modeling with Generative Agents**, 2023.07, [[paper]](https://arxiv.org/abs/2307.04986).
+
+  Keywords: epidemic modeling, generative AI, agent-based model, human behavior, COVID-19
+
+  TL;DR: The paper presents a new epidemic modeling approach using generative AI to empower individual agents with reasoning ability. The generative agent-based model collectively flattens the epidemic curve, mimicking patterns like multiple waves, through AI-powered decision-making without imposed rules.
 
 ---
 
