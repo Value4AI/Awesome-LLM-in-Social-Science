@@ -159,11 +159,17 @@ This is a preliminary repo. Welcome to contribute and discuss!
 
   TL;DR: The authors demonstrate Generative Agent-Based Modeling (GABM) through a simple model of norm diffusion, where agents decide on wearing green or blue shirts based on peer influence. The results show emergence of group norms, sensitivity to agent personas, and conformity to asymmetric adoption forces.
 
-- **Epidemic Modeling with Generative Agents**, 2023.07, [[paper]](https://arxiv.org/abs/2307.04986).
+- **Epidemic Modeling with Generative Agents**, 2023.07, [[paper]](https://arxiv.org/abs/2307.04986), [[code]](https://github.com/bear96/GABM-Epidemic).
 
   Keywords: epidemic modeling, generative AI, agent-based model, human behavior, COVID-19
 
   TL;DR: The paper presents a new epidemic modeling approach using generative AI to empower individual agents with reasoning ability. The generative agent-based model collectively flattens the epidemic curve, mimicking patterns like multiple waves, through AI-powered decision-making without imposed rules.
+
+- **MetaAgents: Simulating Interactions of Human Behaviors for LLM-based Task-oriented Coordination via Collaborative Generative Agents**, 2023.10, [[paper]](https://arxiv.org/abs/2310.06500).
+
+  Keywords: agent simulation, job fair environment, task-oriented coordination
+
+  TL;DR: The paper introduces "MetaAgents" to enhance coordination in LLMs through a novel collaborative and reasoning approach, tested in a simulated job fair environment. The study reveals both the potential and limitations of LLM-based agents in complex social coordination tasks.
 
 ---
 
