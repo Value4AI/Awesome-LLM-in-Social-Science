@@ -165,11 +165,19 @@ This is a preliminary repo. Welcome to contribute and discuss!
 
   TL;DR: The paper presents a new epidemic modeling approach using generative AI to empower individual agents with reasoning ability. The generative agent-based model collectively flattens the epidemic curve, mimicking patterns like multiple waves, through AI-powered decision-making without imposed rules.
 
+- **Emergent analogical reasoning in large language models**, 2023.08, nature human behaviour, [[paper]](https://www.nature.com/articles/s41562-023-01659-w).
+
+  Keywords: GPT-3, Analogical Reasoning, Zero-Shot Learning, Cognitive Processes, Human Comparison
+
+  TL;DR: This paper investigates the emergent analogical reasoning capabilities of GPT-3, demonstrating its proficiency in various analogy tasks compared to college students. The research highlights GPT-3's potential in zero-shot learning and its similarity to human cognitive processes in problem-solving.
+
 - **MetaAgents: Simulating Interactions of Human Behaviors for LLM-based Task-oriented Coordination via Collaborative Generative Agents**, 2023.10, [[paper]](https://arxiv.org/abs/2310.06500).
 
   Keywords: agent simulation, job fair environment, task-oriented coordination
 
   TL;DR: The paper introduces "MetaAgents" to enhance coordination in LLMs through a novel collaborative and reasoning approach, tested in a simulated job fair environment. The study reveals both the potential and limitations of LLM-based agents in complex social coordination tasks.
+
+
 
 ---
 
