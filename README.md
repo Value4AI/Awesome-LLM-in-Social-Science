@@ -159,6 +159,10 @@ This is a preliminary repo. Welcome to contribute and discuss!
 
   TL;DR: The authors demonstrate Generative Agent-Based Modeling (GABM) through a simple model of norm diffusion, where agents decide on wearing green or blue shirts based on peer influence. The results show emergence of group norms, sensitivity to agent personas, and conformity to asymmetric adoption forces.
 
+- **Using Imperfect Surrogates for Downstream Inference: Design-based Supervised Learning for Social Science Applications of Large Language Models**, 2023.06, NeurIPS 2023, [[paper]](https://arxiv.org/abs/2306.04746).
+
+  TL;DR: We present a new algorithm for using outputs from LLMs for downstream statistic alanalyses while guaranteeing statistical properties -- like asymptotic unbiasedness and proper uncertainty quantification -- which are fundamental to CSS research. (用LLM的输出进行社会科学的文档标签的下游统计分析)
+
 - **Epidemic Modeling with Generative Agents**, 2023.07, [[paper]](https://arxiv.org/abs/2307.04986), [[code]](https://github.com/bear96/GABM-Epidemic).
 
   Keywords: epidemic modeling, generative AI, agent-based model, human behavior, COVID-19
