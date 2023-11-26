@@ -87,6 +87,10 @@ This is a preliminary repo. Welcome to contribute and discuss!
 
   TL;DR: This paper studies Large Language Models' (LLMs) cooperative and coordinated behavior by letting them play repeated 2-player games. The key findings are that LLMs like GPT-4 perform well in competitive games but struggle to coordinate and alternate strategies in games requiring more cooperation.
 
+- [*Value*] **Measuring Value Understanding in Language Models through Discriminator-Critique Gap**, 2023.10, [[paper]](https://arxiv.org/abs/2310.00378).
+
+  TL;DR: This paper introduces Value Understanding Measurement (VUM) framework to quantitatively assess an LLM's understanding of values. This is done by measuring the discriminator-critique gap (DCG), which evaluates both the model's knowledge of values ("know what") and the reasoning behind this knowledge ("know why").
+
 ---
 ### Alignment
 
