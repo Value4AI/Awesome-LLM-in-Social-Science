@@ -196,4 +196,12 @@ Welcome to contribute and discuss!
 
 ---
 
+### Perspective
+
+- **A social path to human-like artificial intelligence**, 2023.11, Nature Machine Intelligence, [[paper]](https://www.nature.com/articles/s42256-023-00754-x).
+
+  TL;DR: This paper explores the social pathways to human intelligence, highlighting the roles of collective living, social relationships, and key evolutionary transformations in the development of intelligence.
+
+---
+
 You may also be interested in LLM as optimizers: https://github.com/AGI-Edgerunners/LLM-Optimizers-Papers
