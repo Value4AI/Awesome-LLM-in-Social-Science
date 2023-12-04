@@ -11,7 +11,7 @@ Evaluation, alignment, and simulation are by no means orthogonal. For example, e
 
 Using LLMs as research assistants (annotators, classifier, abstract generator, etc.) is beyond the scope of this repo.
 
-This is a preliminary repo. Welcome to contribute and discuss!
+Welcome to contribute and discuss!
 
 ## Paper list
 
@@ -190,7 +190,9 @@ This is a preliminary repo. Welcome to contribute and discuss!
 
   TL;DR: The paper introduces "MetaAgents" to enhance coordination in LLMs through a novel collaborative and reasoning approach, tested in a simulated job fair environment. The study reveals both the potential and limitations of LLM-based agents in complex social coordination tasks.
 
+- **War and Peace (WarAgent): Large Language Model-based Multi-Agent Simulation of World Wars**, 2023.11, [[paper]](https://arxiv.org/abs/2311.17227), [[code]](https://github.com/agiresearch/WarAgent).
 
+  TL;DR: This paper presents WarAgent, an AI system simulating historical conflicts, revealing how historical and policy factors critically drive the inevitability and nature of wars.
 
 ---
 
