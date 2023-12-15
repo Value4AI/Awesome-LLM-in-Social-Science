@@ -4,12 +4,12 @@
 
 Below we compile *awesome* papers that  
 - **evaluate** or **align** Large Language Models (LLMs) from a perspective of Social Science.
-- employ LLMs to create **simulation** environments, facilitating research or addressing issues in diverse fields in Social Science.
+- employ LLMs to create **simulation** environments, facilitating research or addressing issues in diverse fields of Social Science.
 - can be considered a subset of those related to LLM-based agents.
 
 Evaluation, alignment, and simulation are by no means orthogonal. For example, evaluations require simulations. We categorize these papers based on our understanding of their focus.
 
-Using LLMs as research assistants (annotators, classifier, abstract generator, etc.) is beyond the scope of this repo.
+Using LLMs as research assistants (annotators, classifiers, abstract generators, etc.) is beyond the scope of this repo.
 
 Welcome to contribute and discuss!
 
@@ -108,7 +108,7 @@ Welcome to contribute and discuss!
 
   Keywords: Stable Alignment, social alignment, societal norms and values, simulated social interactions, contrastive supervised learning
 
-  TL;DR: This paper presents a training paradigm that permits LMs to learn from simulated social interactions for their social alignment. The model trained under such paradigm better handles “jailbreaking prompts”.
+  TL;DR: This paper presents a training paradigm that permits LMs to learn from simulated social interactions for their social alignment. The model trained under such a paradigm better handles “jailbreaking prompts”.
 
 ---
 
@@ -124,7 +124,7 @@ Welcome to contribute and discuss!
 
   Keywords: generative agents, sandbox environment, natural language communication, emergent social behaviors, Smallville
 
-  TL;DR: This paper introduces generative agents and their architecture for memory storage, reflection, retrival, etc. The agents produce believable individual and emergent social behaviors in an interactive sandbox environment.
+  TL;DR: This paper introduces generative agents and their architecture for memory storage, reflection, retrieval, etc. The agents produce believable individual and emergent social behaviors in an interactive sandbox environment.
 
 - **$S^3$: Social-network Simulation System with Large Language Model-Empowered Agents**, 2023, [[paper]](https://arxiv.org/abs/2307.14984).
 
@@ -160,7 +160,7 @@ Welcome to contribute and discuss!
 
   Keywords: macroeconomic simulation, agent-based modeling, prompt-engineering, perception/reflection/decision-making abilities
 
-  TL;DR: This work leverages LLM-based agents for macroeconomic simulation. Experiments show the LLM-based agents make realistic decisions, reproducing classic macro phenomena better than rule-based or other AI agents.
+  TL;DR: This work leverages LLM-based agents for macroeconomic simulation. Experiments show that LLM-based agents make realistic decisions, reproducing classic macro phenomena better than rule-based or other AI agents.
 
 - **Generative Agent-Based Modeling: Unveiling Social System Dynamics through Coupling Mechanistic Models with Generative Artificial Intelligence**, 2023, [[paper]](https://arxiv.org/abs/2309.11456).
 
@@ -170,7 +170,7 @@ Welcome to contribute and discuss!
 
 - **Using Imperfect Surrogates for Downstream Inference: Design-based Supervised Learning for Social Science Applications of Large Language Models**, 2023.06, NeurIPS 2023, [[paper]](https://arxiv.org/abs/2306.04746).
 
-  TL;DR: We present a new algorithm for using outputs from LLMs for downstream statistic alanalyses while guaranteeing statistical properties -- like asymptotic unbiasedness and proper uncertainty quantification -- which are fundamental to CSS research. (用LLM的输出进行社会科学的文档标签的下游统计分析)
+  TL;DR: We present a new algorithm for using outputs from LLMs for downstream statistic analyses while guaranteeing statistical properties -- like asymptotic unbiasedness and proper uncertainty quantification -- which are fundamental to CSS research. (用LLM的输出进行社会科学的文档标签的下游统计分析)
 
 - **Epidemic Modeling with Generative Agents**, 2023.07, [[paper]](https://arxiv.org/abs/2307.04986), [[code]](https://github.com/bear96/GABM-Epidemic).
 
@@ -178,7 +178,7 @@ Welcome to contribute and discuss!
 
   TL;DR: The paper presents a new epidemic modeling approach using generative AI to empower individual agents with reasoning ability. The generative agent-based model collectively flattens the epidemic curve, mimicking patterns like multiple waves, through AI-powered decision-making without imposed rules.
 
-- **Emergent analogical reasoning in large language models**, 2023.08, nature human behaviour, [[paper]](https://www.nature.com/articles/s41562-023-01659-w).
+- **Emergent analogical reasoning in large language models**, 2023.08, nature human behavior, [[paper]](https://www.nature.com/articles/s41562-023-01659-w).
 
   Keywords: GPT-3, Analogical Reasoning, Zero-Shot Learning, Cognitive Processes, Human Comparison
 
