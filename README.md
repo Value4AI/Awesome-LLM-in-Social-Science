@@ -87,6 +87,10 @@ Welcome to contribute and discuss!
 
   TL;DR: This paper studies Large Language Models' (LLMs) cooperative and coordinated behavior by letting them play repeated 2-player games. The key findings are that LLMs like GPT-4 perform well in competitive games but struggle to coordinate and alternate strategies in games requiring more cooperation.
 
+- **Exploring the psychology of GPT-4's Moral and Legal Reasoning**, 2023.08, [[paper]](https://arxiv.org/abs/2308.01264).
+
+  TL;DR: The paper investigates GPT-4's moral and legal reasoning compared to humans across several domains, using vignette-based studies. It reveals significant parallels and differences in GPT-4's responses, offering insights into its alignment with human moral judgments.
+
 - [*Value*] **Heterogeneous Value Evaluation for Large Language Models**, 2023.03, [[paper]](https://arxiv.org/abs/2305.17147), [[code]](https://github.com/zowiezhang/A2EHV).
 
   TL;DR: This paper introduces the A2EHV method to assess how well these models align with a range of human values categorized under the Social Value Orientation (SVO) framework.
