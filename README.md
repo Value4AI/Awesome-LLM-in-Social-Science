@@ -91,6 +91,10 @@ Welcome to contribute and discuss!
 
   TL;DR: The paper investigates GPT-4's moral and legal reasoning compared to humans across several domains, using vignette-based studies. It reveals significant parallels and differences in GPT-4's responses, offering insights into its alignment with human moral judgments.
 
+- [*Value*] **Towards Measuring the Representation of Subjective Global Opinions in Language Models**, 2023.07, [[paper]](https://arxiv.org/abs/2306.16388), [[website]](https://llmglobalvalues.anthropic.com/).
+
+  TL;DR: This study explores how to quantitatively assess the representation of subjective global opinions in LLMs. It introduces a dataset from cross-national surveys to capture diverse global perspectives, and develops a metric to measure the similarity between LLM-generated responses and human responses conditioned on nationality, revealing biases and stereotypes in the model's responses.
+
 - [*Value*] **Heterogeneous Value Evaluation for Large Language Models**, 2023.03, [[paper]](https://arxiv.org/abs/2305.17147), [[code]](https://github.com/zowiezhang/A2EHV).
 
   TL;DR: This paper introduces the A2EHV method to assess how well these models align with a range of human values categorized under the Social Value Orientation (SVO) framework.
