@@ -22,7 +22,7 @@ Welcome to contribute and discuss!
 - **AI Alignment: A Comprehensive Survey**, 2023.11, [[paper]](https://arxiv.org/abs/2310.19852), [[website]](https://alignmentsurvey.com/).
 -  **Aligning Large Language Models with Human: A Survey**, 2023, [[paper]](https://arxiv.org/abs/2307.12966), [[repo]](https://github.com/GaryYufei/AlignLLMHumanSurvey).
 -  **Large Language Model Alignment: A Survey**, 2023, [[paper]](https://arxiv.org/abs/2309.15025).
-
+- **Large Language Models Empowered Agent-based Modeling and Simulation: A Survey and Perspectives**, 2023.12, [[paper]](https://arxiv.org/abs/2312.11970).
 ---
 
 ### Evaluation
