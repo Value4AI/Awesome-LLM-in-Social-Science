@@ -118,6 +118,9 @@ Welcome to contribute and discuss!
 
   TL;DR: This paper presents a training paradigm that permits LMs to learn from simulated social interactions for their social alignment. The model trained under such a paradigm better handles “jailbreaking prompts”.
 
+- [*Norm*] **Align on the Fly: Adapting Chatbot Behavior to Established Norms**, 2023.12, [[paper]](https://arxiv.org/abs/2312.15907), [[code]](https://github.com/GAIR-NLP/OPO).
+
+  TL;DR: Using RAG to align LLMs with dynamic, diverse human values such as social norms.
 ---
 
 ### Simulation
