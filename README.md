@@ -103,6 +103,10 @@ Welcome to contribute and discuss!
 
   TL;DR: This paper introduces Value Understanding Measurement (VUM) framework to quantitatively assess an LLM's understanding of values. This is done by measuring the discriminator-critique gap (DCG), which evaluates both the model's knowledge of values ("know what") and the reasoning behind this knowledge ("know why").
 
+- [*MBTI*] **Can ChatGPT Assess Human Personalities? A General Evaluation Framework**, 2023.03, EMNLP 2023, [[paper]](https://arxiv.org/abs/2303.01248), [[code]](https://github.com/Kali-Hac/ChatGPT-MBTI).
+
+  TL;DR: Using LLM to evaluate human MBTI.
+
 ---
 ### Alignment
 
@@ -122,7 +126,7 @@ Welcome to contribute and discuss!
 
   TL;DR: Using RAG to align LLMs with dynamic, diverse human values such as social norms.
 
-- [*MBTI*] **Machine Mindset: An MBTI Exploration of Large Language Models**
+- [*MBTI*] **Machine Mindset: An MBTI Exploration of Large Language Models**, 2023.12, [[paper]](https://arxiv.org/abs/2312.12999), [[code]](https://github.com/PKU-YuanGroup/Machine-Mindset).
 
   TL;DR: Train LLM toward certain MBTI via instruction tuning and direct preference optimization (DPO).
 
