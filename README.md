@@ -4,7 +4,7 @@
 Below we compile *awesome* papers that  
 - **evaluate** or **align** Large Language Models (LLMs) from a perspective of Social Science.
 - employ LLMs to create **simulation** environments, facilitating research or addressing issues in diverse fields of Social Science.
-- can be considered a subset of those related to LLM-based agents.
+- contribute **surveys** or **perspectives** on the above topics.
 
 Evaluation, alignment, and simulation are by no means orthogonal. For example, evaluations require simulations. We categorize these papers based on our understanding of their focus.
 
@@ -12,9 +12,7 @@ Using LLMs as research assistants (annotators, classifiers, abstract generators,
 
 Welcome to contribute and discuss!
 
-## Paper list
-
-### Survey 
+## 📚 Survey 
 
 - **The Rise and Potential of Large Language Model Based Agents: A Survey**, 2023, [[paper]](https://arxiv.org/abs/2309.07864), [[repo]](https://github.com/WooooDyy/LLM-Agent-Paper-List).
 - **A Survey on Large Language Model based Autonomous Agents**, 2023, [[paper]](https://arxiv.org/abs/2308.11432), [[repo]](https://github.com/Paitesanshi/LLM-Agent-Survey).
@@ -23,92 +21,72 @@ Welcome to contribute and discuss!
 -  **Large Language Model Alignment: A Survey**, 2023, [[paper]](https://arxiv.org/abs/2309.15025).
 - **Large Language Models Empowered Agent-based Modeling and Simulation: A Survey and Perspectives**, 2023.12, [[paper]](https://arxiv.org/abs/2312.11970).
 - **A Survey on Evaluation of Large Language Models**, 2023.07, [[paper]](https://arxiv.org/abs/2307.03109), [[repo]](https://github.com/MLGroupJLU/LLM-eval-survey).
----
 
-### Evaluation
+## 🔎 Evaluation
 
-- **Out of One, Many: Using Language Models to Simulate Human Samples**, 2022, [[paper]](https://arxiv.org/abs/2209.06899).
+### ❤️ Value
 
-  Keywords: algorithmic fidelity, public opinion, political attitude
+- **Heterogeneous Value Evaluation for Large Language Models**, 2023.03, [[paper]](https://arxiv.org/abs/2305.17147), [[code]](https://github.com/zowiezhang/A2EHV).
 
-  TL;DR: This work introduces "algorithmic fidelity" - the degree to which the relationships between ideas, attitudes, and contexts in a model mirror those in human groups. They propose 4 criteria for assessing algorithmic fidelity and demonstrate that GPT-3 exhibits a high degree of fidelity for modeling public opinion and political attitudes in the U.S.
+  TL;DR: This paper introduces the A2EHV method to assess how well these models align with a range of human values categorized under the Social Value Orientation (SVO) framework.
 
-- **Can Large Language Models Transform Computational Social Science?**, 2023, [[paper]](https://arxiv.org/abs/2305.03514), [[code]](https://github.com/SALT-NLP/LLMs_for_CSS).
+- **Measuring Value Understanding in Language Models through Discriminator-Critique Gap**, 2023.10, [[paper]](https://arxiv.org/abs/2310.00378).
 
-  Keywords: Computational Social Science (CSS), evaluation
+  TL;DR: This paper introduces Value Understanding Measurement (VUM) framework to quantitatively assess an LLM's understanding of values. This is done by measuring the discriminator-critique gap (DCG), which evaluates both the model's knowledge of values ("know what") and the reasoning behind this knowledge ("know why").
 
-  TL;DR: This document provides a roadmap for using LLMs as CSS tools, including prompting best practices and an evaluation pipeline. Evaluations show that LLMs can serve as zero-shot data annotators and assist with challenging creative generation tasks.
+### 🩷 Personality
 
-- **Using Large Language Models to Simulate Multiple Humans and Replicate Human Subject Studies**, 2023, [[paper]](https://proceedings.mlr.press/v202/aher23a.html), [[code]](https://github.com/GatiAher/Using-Large-Language-Models-to-Replicate-Human-Subject-Studies).
+- [*MBTI*] **Can ChatGPT Assess Human Personalities? A General Evaluation Framework**, 2023.03, EMNLP 2023, [[paper]](https://arxiv.org/abs/2303.01248), [[code]](https://github.com/Kali-Hac/ChatGPT-MBTI).
 
-  Keywords: Turing Experiment, human subject research, hyper-accuracy distortion
+    TL;DR: (1) Using LLM to evaluate MBTI of different groups of people via prompt engineering. (2) Unbiased prompts by averaging over randomly permuted options. (3) Converting the original subject of the question statements into a target subject (e.g., men, barbers). (4) Ask LLM "is it right/wrong" instead of "do you agree/disagree". (5) Metrics to evaluate consistency, robustness, and fairness.
 
-  TL;DR: This paper presents a methodology for simulating Turing Experiments (TEs) and applies it to replicate well-established findings from economic, psycholinguistic, and social psychology experiments. The results show that larger language models provide more faithful simulations, except for a "hyper-accuracy distortion" (being unhumanly accurate) present in some recent models.
+- **Who is ChatGPT? Benchmarking LLMs' Psychological Portrayal Using PsychoBench**, ICLR 2024, [[paper]](https://arxiv.org/abs/2310.01386), [[code]](https://github.com/CUHK-ARISE/PsychoBench)
 
-- **Large Language Models as Simulated Economic Agents: What Can We Learn from Homo Silicus?**, 2023 [[paper]](https://www.nber.org/papers/w31122), [[code]](https://github.com/johnjosephhorton/homo_silicus).
+    TL;DR: (1) Using 13 psychometric scales. (2) Directly prompt LLMs to generate numbers. (3) Discussing reliability and validity.
 
-  Keywords: simulated economic agents, Homo Silicus, Behavioral Economics
-
-  TL;DR: LLMs can be used like economists use homo economicus. Experiments using LLMs show qualitatively similar results to the original economic research. It is promising to use LLM to search for novel social science insights to test in the real world.
-
-- **SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents**, 2023, [[paper]](https://arxiv.org/pdf/2310.11667.pdf), [[code]](https://www.sotopia.world/).
-
-  Keywords: social intelligence, interactive evaluation, language agents, goal-driven interaction, multi-agent simulation, commonsense reasoning
-
-  TL;DR: The paper introduces SOTOPIA, a novel interactive environment for evaluating social intelligence in language agents through goal-driven social interactions. Experiments using SOTOPIA reveal gaps between SOTA models and human social intelligence, despite models showing some promising capabilities.
-
-- **Exploring Collaboration Mechanisms for LLM Agents: A Social Psychology View**, 2023, [[paper]](https://arxiv.org/abs/2310.02124), [[code]](https://github.com/zjunlp/MachineSoM).
-
-  Keywords: multi-agent systems, LLMs, collaboration strategies, social psychology, debate vs. reflection, conformity and majority rule
-
-  TL;DR: This paper explores collaboration mechanisms among LLMs in a multi-agent system by drawing insights from social psychology. Multi-agent collaboration strategies are more important than scaling up single LLMs; fostering effective collaboration is key for more socially-aware AI.
-
-- **Using large language models in psychology**, 2023, [[paper]](https://www.nature.com/articles/s44159-023-00241-5).
-
-  Keywords: LLM, psychology, applications, measurement
-
-  TL;DR: This paper explores the potential applications and concerns of using LLMs in psychological research, and recommends investments in high-quality datasets, performance benchmarks, and infrastructure to enable responsible use of LLMs.
-
-- **More human than human: measuring ChatGPT political bias**, 2023, [[paper]](https://link.springer.com/article/10.1007/s11127-023-01097-2).
-
-  Keywords: political bias, large language model, ChatGPT, algorithmic bias, empirical methods
-  
-  TL;DR: This paper proposed empirical designs to measure political bias in ChatGPT, showing that ChatGPT exhibits a significant and systematic political bias towards the Democrats in the US, Lula in Brazil, and the Labour Party in the UK.
-
-- **Probing the Moral Development of Large Language Models through Defining Issues Test**
-
-  Keywords: moral development, defining issues test, ethical reasoning, alignment
-
-  TL;DR: Defining Issues Test (DIT) based on Kohlberg's model of moral development is used to evaluate the ethical reasoning abilities of LLMs. GPT-3 performs at random baseline level while GPT-4 achieves the highest moral development score equivalent to graduate students.
-
-- **Playing repeated games with Large Language Models**, 2023.05, [[paper]](https://arxiv.org/abs/2305.16867).
-  
-  Keywords: games, cooperation, coordination, behavioral analysis
-
-  TL;DR: This paper studies Large Language Models' (LLMs) cooperative and coordinated behavior by letting them play repeated 2-player games. The key findings are that LLMs like GPT-4 perform well in competitive games but struggle to coordinate and alternate strategies in games requiring more cooperation.
+### 🔞 Morality
 
 - **Exploring the psychology of GPT-4's Moral and Legal Reasoning**, 2023.08, [[paper]](https://arxiv.org/abs/2308.01264).
 
   TL;DR: The paper investigates GPT-4's moral and legal reasoning compared to humans across several domains, using vignette-based studies. It reveals significant parallels and differences in GPT-4's responses, offering insights into its alignment with human moral judgments.
 
-- [*Value*] **Towards Measuring the Representation of Subjective Global Opinions in Language Models**, 2023.07, [[paper]](https://arxiv.org/abs/2306.16388), [[website]](https://llmglobalvalues.anthropic.com/).
+- **Probing the Moral Development of Large Language Models through Defining Issues Test**
+
+  TL;DR: Defining Issues Test (DIT) based on Kohlberg's model of moral development is used to evaluate the ethical reasoning abilities of LLMs. GPT-3 performs at random baseline level while GPT-4 achieves the highest moral development score equivalent to graduate students.
+
+### 🎤 Opinion
+
+- **More human than human: measuring ChatGPT political bias**, 2023, [[paper]](https://link.springer.com/article/10.1007/s11127-023-01097-2).
+  
+  TL;DR: This paper proposed empirical designs to measure political bias in ChatGPT, showing that ChatGPT exhibits a significant and systematic political bias towards the Democrats in the US, Lula in Brazil, and the Labour Party in the UK.
+
+- **Towards Measuring the Representation of Subjective Global Opinions in Language Models**, 2023.07, [[paper]](https://arxiv.org/abs/2306.16388), [[website]](https://llmglobalvalues.anthropic.com/).
 
   TL;DR: This study explores how to quantitatively assess the representation of subjective global opinions in LLMs. It introduces a dataset from cross-national surveys to capture diverse global perspectives, and develops a metric to measure the similarity between LLM-generated responses and human responses conditioned on nationality, revealing biases and stereotypes in the model's responses.
 
-- [*Value*] **Heterogeneous Value Evaluation for Large Language Models**, 2023.03, [[paper]](https://arxiv.org/abs/2305.17147), [[code]](https://github.com/zowiezhang/A2EHV).
+### 🧠 Ability 
 
-  TL;DR: This paper introduces the A2EHV method to assess how well these models align with a range of human values categorized under the Social Value Orientation (SVO) framework.
+- **Can Large Language Models Transform Computational Social Science?**, 2023, [[paper]](https://arxiv.org/abs/2305.03514), [[code]](https://github.com/SALT-NLP/LLMs_for_CSS).
 
-- [*Value*] **Measuring Value Understanding in Language Models through Discriminator-Critique Gap**, 2023.10, [[paper]](https://arxiv.org/abs/2310.00378).
+  **TL;DR**: This document provides a roadmap for using LLMs as CSS tools, including prompting best practices and an evaluation pipeline. Evaluations show that LLMs can serve as zero-shot data annotators and assist with challenging creative generation tasks.
 
-  TL;DR: This paper introduces Value Understanding Measurement (VUM) framework to quantitatively assess an LLM's understanding of values. This is done by measuring the discriminator-critique gap (DCG), which evaluates both the model's knowledge of values ("know what") and the reasoning behind this knowledge ("know why").
+- **SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents**, 2023, [[paper]](https://arxiv.org/pdf/2310.11667.pdf), [[code]](https://www.sotopia.world/).
 
-- [*MBTI*] **Can ChatGPT Assess Human Personalities? A General Evaluation Framework**, 2023.03, EMNLP 2023, [[paper]](https://arxiv.org/abs/2303.01248), [[code]](https://github.com/Kali-Hac/ChatGPT-MBTI).
+  TL;DR: The paper introduces SOTOPIA, a novel interactive environment for evaluating social intelligence in language agents through goal-driven social interactions. Experiments using SOTOPIA reveal gaps between SOTA models and human social intelligence, despite models showing some promising capabilities.
 
-  TL;DR: Using LLM to evaluate human MBTI.
+- **Exploring Collaboration Mechanisms for LLM Agents: A Social Psychology View**, 2023, [[paper]](https://arxiv.org/abs/2310.02124), [[code]](https://github.com/zjunlp/MachineSoM).
 
----
-### Alignment
+  TL;DR: This paper explores collaboration mechanisms among LLMs in a multi-agent system by drawing insights from social psychology. Multi-agent collaboration strategies are more important than scaling up single LLMs; fostering effective collaboration is key for more socially-aware AI.
+
+- **Using large language models in psychology**, 2023, [[paper]](https://www.nature.com/articles/s44159-023-00241-5).
+
+  TL;DR: This paper explores the potential applications and concerns of using LLMs in psychological research, and recommends investments in high-quality datasets, performance benchmarks, and infrastructure to enable responsible use of LLMs.
+
+- **Playing repeated games with Large Language Models**, 2023.05, [[paper]](https://arxiv.org/abs/2305.16867).
+
+  TL;DR: This paper studies Large Language Models' (LLMs) cooperative and coordinated behavior by letting them play repeated 2-player games. The key findings are that LLMs like GPT-4 perform well in competitive games but struggle to coordinate and alternate strategies in games requiring more cooperation.
+
+## ⛑️ Alignment
 
 - **Fine-tuning language models to find agreement among humans with diverse preferences**, 2022, [[paper]](https://arxiv.org/abs/2211.15006).
 
@@ -130,9 +108,11 @@ Welcome to contribute and discuss!
 
   TL;DR: Train LLM toward certain MBTI via instruction tuning and direct preference optimization (DPO).
 
----
+## 🚀 Simulation
 
-### Simulation
+- **Out of One, Many: Using Language Models to Simulate Human Samples**, 2022, [[paper]](https://arxiv.org/abs/2209.06899).
+
+  TL;DR: This work introduces "algorithmic fidelity" - the degree to which the relationships between ideas, attitudes, and contexts in a model mirror those in human groups. They propose 4 criteria for assessing algorithmic fidelity and demonstrate that GPT-3 exhibits a high degree of fidelity for modeling public opinion and political attitudes in the U.S.
 
 - **Social Simulacra: Creating Populated Prototypes for Social Computing Systems**, 2022, [[paper]](https://dl.acm.org/doi/abs/10.1145/3526113.3545616).
 
@@ -145,6 +125,14 @@ Welcome to contribute and discuss!
   Keywords: generative agents, sandbox environment, natural language communication, emergent social behaviors, Smallville
 
   TL;DR: This paper introduces generative agents and their architecture for memory storage, reflection, retrieval, etc. The agents produce believable individual and emergent social behaviors in an interactive sandbox environment.
+
+- **Using Large Language Models to Simulate Multiple Humans and Replicate Human Subject Studies**, 2023, [[paper]](https://proceedings.mlr.press/v202/aher23a.html), [[code]](https://github.com/GatiAher/Using-Large-Language-Models-to-Replicate-Human-Subject-Studies).
+
+  TL;DR: This paper presents a methodology for simulating Turing Experiments (TEs) and applies it to replicate well-established findings from economic, psycholinguistic, and social psychology experiments. The results show that larger language models provide more faithful simulations, except for a "hyper-accuracy distortion" (being unhumanly accurate) present in some recent models.
+
+- **Large Language Models as Simulated Economic Agents: What Can We Learn from Homo Silicus?**, 2023 [[paper]](https://www.nber.org/papers/w31122), [[code]](https://github.com/johnjosephhorton/homo_silicus).
+
+  TL;DR: LLMs can be used like economists use homo economicus. Experiments using LLMs show qualitatively similar results to the original economic research. It is promising to use LLM to search for novel social science insights to test in the real world.
 
 - **$S^3$: Social-network Simulation System with Large Language Model-Empowered Agents**, 2023, [[paper]](https://arxiv.org/abs/2307.14984).
 
@@ -214,14 +202,9 @@ Welcome to contribute and discuss!
 
   TL;DR: This paper presents WarAgent, an AI system simulating historical conflicts, revealing how historical and policy factors critically drive the inevitability and nature of wars.
 
----
 
-### Perspective
+## 👁️‍🗨️ Perspective
 
 - **A social path to human-like artificial intelligence**, 2023.11, Nature Machine Intelligence, [[paper]](https://www.nature.com/articles/s42256-023-00754-x).
 
   TL;DR: This paper explores the social pathways to human intelligence, highlighting the roles of collective living, social relationships, and key evolutionary transformations in the development of intelligence.
-
----
-
-You may also be interested in LLM as optimizers: https://github.com/AGI-Edgerunners/LLM-Optimizers-Papers
