@@ -35,10 +35,23 @@ Welcome to contribute and discuss!
   TL;DR: This paper introduces Value Understanding Measurement (VUM) framework to quantitatively assess an LLM's understanding of values. This is done by measuring the discriminator-critique gap (DCG), which evaluates both the model's knowledge of values ("know what") and the reasoning behind this knowledge ("know why").
 
 ### 🩷 Personality
+- **Who is GPT-3? An Exploration of Personality, Values and Demographics**, 2022.09, [[paper]](https://arxiv.org/abs/2209.14338)
+
+- [*BFI*] **Identifying and Manipulating the Personality Traits of Language Models**, 2022,12, [[paper]](https://arxiv.org/abs/2212.10276)
+
+- **Does GPT-3 Demonstrate Psychopathy? Evaluating Large Language Models from a Psychological Perspective**, 2022.12, [[paper]](https://arxiv.org/abs/2212.10529)
+
+- **Evaluating and Inducing Personality in Pre-trained Language Models**, NeurIPS 2023 (spotlight), [[paper]](https://arxiv.org/abs/2206.07550)
+
+- **Does Role-Playing Chatbots Capture the Character Personalities? Assessing Personality Traits for Role-Playing Chatbots**, 2023.10, [[paper]](https://arxiv.org/abs/2310.17976)
+
+- [*MBTI*] **Do LLMs Possess a Personality? Making the MBTI Test an Amazing Evaluation for Large Language Models**, 2023.07, [[paper]](https://arxiv.org/abs/2307.16180)
 
 - [*MBTI*] **Can ChatGPT Assess Human Personalities? A General Evaluation Framework**, 2023.03, EMNLP 2023, [[paper]](https://arxiv.org/abs/2303.01248), [[code]](https://github.com/Kali-Hac/ChatGPT-MBTI).
 
     TL;DR: (1) Using LLM to evaluate MBTI of different groups of people via prompt engineering. (2) Unbiased prompts by averaging over randomly permuted options. (3) Converting the original subject of the question statements into a target subject (e.g., men, barbers). (4) Ask LLM "is it right/wrong" instead of "do you agree/disagree". (5) Metrics to evaluate consistency, robustness, and fairness.
+
+- [*MBTI*] **Open Models, Closed Minds? On Agents Capabilities in Mimicking Human Personalities through Open Large Language Models**, 2024.01, [[paper]](https://arxiv.org/abs/2401.07115)
 
 - **Who is ChatGPT? Benchmarking LLMs' Psychological Portrayal Using PsychoBench**, ICLR 2024, [[paper]](https://arxiv.org/abs/2310.01386), [[code]](https://github.com/CUHK-ARISE/PsychoBench)
 
