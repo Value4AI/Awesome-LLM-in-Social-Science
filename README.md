@@ -73,6 +73,10 @@ Welcome to contribute and discuss!
 
   TL;DR: Defining Issues Test (DIT) based on Kohlberg's model of moral development is used to evaluate the ethical reasoning abilities of LLMs. GPT-3 performs at random baseline level while GPT-4 achieves the highest moral development score equivalent to graduate students.
 
+- **Moral Foundations of Large Language Models**, 2023.10, [[paper]](https://arxiv.org/abs/2310.15337).
+- **Moral Mimicry: Large Language Models Produce Moral Rationalizations Tailored to Political Identity**, 2023.06, [[paper]](https://arxiv.org/abs/2209.12106)
+- **Evaluating the Moral Beliefs Encoded in LLMs**, 2023.07, [[paper]](https://arxiv.org/abs/2307.14324)
+
 ### 🎤 Opinion
 
 - **More human than human: measuring ChatGPT political bias**, 2023, [[paper]](https://link.springer.com/article/10.1007/s11127-023-01097-2).
