@@ -34,7 +34,7 @@ Welcome to contribute and discuss!
 
   TL;DR: This paper introduces Value Understanding Measurement (VUM) framework to quantitatively assess an LLM's understanding of values. This is done by measuring the discriminator-critique gap (DCG), which evaluates both the model's knowledge of values ("know what") and the reasoning behind this knowledge ("know why").
 
-- **Value Kaleidoscope: Engaging AI with Pluralistic Human Values, Rights, and Duties**, AAAI24, [[paper]](https://arxiv.org/abs/2309.00779).
+- **Value Kaleidoscope: Engaging AI with Pluralistic Human Values, Rights, and Duties**, AAAI24, [[paper]](https://arxiv.org/abs/2309.00779), [[code]](https://github.com/tsor13/kaleido).
 
 ### 🩷 Personality
 - **Who is GPT-3? An Exploration of Personality, Values and Demographics**, 2022.09, [[paper]](https://arxiv.org/abs/2209.14338)
