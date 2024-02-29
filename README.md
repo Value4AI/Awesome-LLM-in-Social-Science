@@ -116,6 +116,8 @@ Welcome to contribute and discuss!
 
 ## ⛑️ Alignment
 
+- **ValueNet: A New Dataset for Human Value Driven Dialogue System**, AAAI 2022, [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/21368), [[dataset]](https://liang-qiu.github.io/ValueNet/).
+
 - **Fine-tuning language models to find agreement among humans with diverse preferences**, 2022, [[paper]](https://arxiv.org/abs/2211.15006).
 
   Keywords: consensus, fine-tuning, diverse preferences, alignment
