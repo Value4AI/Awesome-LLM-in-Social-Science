@@ -49,6 +49,8 @@ Welcome to contribute and discuss!
 
 - [*BFI*] **Revisiting the Reliability of Psychological Scales on Large Language Models**, 2023.05, [[paper]](https://arxiv.org/abs/2305.19926)
 
+- [*BFI*] **Systematic Evaluation of GPT-3 for Zero-Shot Personality Estimation**, ACL 2023 workshop, [[paper]](https://arxiv.org/abs/2306.01183)
+
 - **Does GPT-3 Demonstrate Psychopathy? Evaluating Large Language Models from a Psychological Perspective**, 2022.12, [[paper]](https://arxiv.org/abs/2212.10529)
 
 - **Does Role-Playing Chatbots Capture the Character Personalities? Assessing Personality Traits for Role-Playing Chatbots**, 2023.10, [[paper]](https://arxiv.org/abs/2310.17976)
