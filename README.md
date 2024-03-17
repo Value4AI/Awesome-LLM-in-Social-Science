@@ -2,13 +2,12 @@
 
 
 Below we compile *awesome* papers that  
-- **evaluate** or **align** Large Language Models (LLMs) from a perspective of Social Science.
+- **evaluate** Large Language Models (LLMs) from a perspective of Social Science.
+- **align** LLMs from a perspective of Social Science.
 - employ LLMs to create **simulation** environments, facilitating research or addressing issues in diverse fields of Social Science.
 - contribute **surveys** or **perspectives** on the above topics.
 
 Evaluation, alignment, and simulation are by no means orthogonal. For example, evaluations require simulations. We categorize these papers based on our understanding of their focus.
-
-Using LLMs as research assistants (annotators, classifiers, abstract generators, etc.) is beyond the scope of this repo.
 
 Welcome to contribute and discuss!
 
@@ -96,6 +95,8 @@ Welcome to contribute and discuss!
 
 ### 🧠 Ability 
 
+- **Language Models in Sociological Research: An Application to Classifying Large Administrative Data and Measuring Religiosity**, 2021, [[paper]](https://journals.sagepub.com/doi/full/10.1177/00811750211053370).
+ 
 - **Can Large Language Models Transform Computational Social Science?**, 2023, [[paper]](https://arxiv.org/abs/2305.03514), [[code]](https://github.com/SALT-NLP/LLMs_for_CSS).
 
   **TL;DR**: This document provides a roadmap for using LLMs as CSS tools, including prompting best practices and an evaluation pipeline. Evaluations show that LLMs can serve as zero-shot data annotators and assist with challenging creative generation tasks.
@@ -117,6 +118,8 @@ Welcome to contribute and discuss!
   TL;DR: This paper studies Large Language Models' (LLMs) cooperative and coordinated behavior by letting them play repeated 2-player games. The key findings are that LLMs like GPT-4 perform well in competitive games but struggle to coordinate and alternate strategies in games requiring more cooperation.
 
 - **Machine Psychology: Investigating Emergent Capabilities and Behavior in Large Language Models Using Psychological Methods**, 2023, [[paper]](https://arxiv.org/abs/2303.13988).
+
+- **Large language models as a substitute for human experts in annotating political text**, 2024.02, [[paper]](https://journals.sagepub.com/doi/10.1177/20531680241236239).
 
 ## ⛑️ Alignment
 
