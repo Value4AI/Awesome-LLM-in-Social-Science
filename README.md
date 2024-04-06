@@ -21,6 +21,7 @@ Welcome to contribute and discuss!
 - **Large Language Models Empowered Agent-based Modeling and Simulation: A Survey and Perspectives**, 2023.12, [[paper]](https://arxiv.org/abs/2312.11970).
 - **A Survey on Evaluation of Large Language Models**, 2023.07, [[paper]](https://arxiv.org/abs/2307.03109), [[repo]](https://github.com/MLGroupJLU/LLM-eval-survey).
 - **From Instructions to Intrinsic Human Values -- A Survey of Alignment Goals for Big Models**, 2023.08, [[paper]](https://arxiv.org/abs/2308.12014), [[repo]](https://github.com/ValueCompass/Alignment-Goal-Survey).
+- **Large Language Model based Multi-Agents: A Survey of Progress and Challenges**, 2024.01, [[paper]](https://arxiv.org/abs/2402.01680), [[repo]](https://github.com/taichengguo/LLM_MultiAgents_Survey_Papers).
 
 ## 🔎 Evaluation
 
