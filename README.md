@@ -11,7 +11,21 @@ Evaluation, alignment, and simulation are by no means orthogonal. For example, e
 
 Welcome to contribute and discuss!
 
-## 📚 Survey 
+
+## Table of Contents
+
+* 1. [📚 Survey](#Survey)
+* 2. [🔎 Evaluation](#Evaluation)
+	* 2.1. [❤️ Value](#Value)
+	* 2.2. [🩷 Personality](#Personality)
+	* 2.3. [🔞 Morality](#Morality)
+	* 2.4. [🎤 Opinion](#Opinion)
+	* 2.5. [🧠 Ability](#Ability)
+* 3. [⛑️ Alignment](#Alignment)
+* 4. [🚀 Simulation](#Simulation)
+* 5. [👁️‍🗨️ Perspective](#Perspective)
+
+##  1. <a name='Survey'></a>📚 Survey 
 
 - **The Rise and Potential of Large Language Model Based Agents: A Survey**, 2023, [[paper]](https://arxiv.org/abs/2309.07864), [[repo]](https://github.com/WooooDyy/LLM-Agent-Paper-List).
 - **A Survey on Large Language Model based Autonomous Agents**, 2023, [[paper]](https://arxiv.org/abs/2308.11432), [[repo]](https://github.com/Paitesanshi/LLM-Agent-Survey).
@@ -23,9 +37,9 @@ Welcome to contribute and discuss!
 - **From Instructions to Intrinsic Human Values -- A Survey of Alignment Goals for Big Models**, 2023.08, [[paper]](https://arxiv.org/abs/2308.12014), [[repo]](https://github.com/ValueCompass/Alignment-Goal-Survey).
 - **Large Language Model based Multi-Agents: A Survey of Progress and Challenges**, 2024.01, [[paper]](https://arxiv.org/abs/2402.01680), [[repo]](https://github.com/taichengguo/LLM_MultiAgents_Survey_Papers).
 
-## 🔎 Evaluation
+##  2. <a name='Evaluation'></a>🔎 Evaluation
 
-### ❤️ Value
+###  2.1. <a name='Value'></a>❤️ Value
 
 - **Heterogeneous Value Evaluation for Large Language Models**, 2023.03, [[paper]](https://arxiv.org/abs/2305.17147), [[code]](https://github.com/zowiezhang/A2EHV).
 
@@ -39,7 +53,7 @@ Welcome to contribute and discuss!
 
 - **Value Kaleidoscope: Engaging AI with Pluralistic Human Values, Rights, and Duties**, AAAI24, [[paper]](https://arxiv.org/abs/2309.00779), [[code]](https://github.com/tsor13/kaleido).
 
-### 🩷 Personality
+###  2.2. <a name='Personality'></a>🩷 Personality
 - **Who is GPT-3? An Exploration of Personality, Values and Demographics**, 2022.09, [[paper]](https://arxiv.org/abs/2209.14338)
 
 - [*BFI*] **Identifying and Manipulating the Personality Traits of Language Models**, 2022,12, [[paper]](https://arxiv.org/abs/2212.10276)
@@ -72,7 +86,7 @@ Welcome to contribute and discuss!
 
     TL;DR: (1) Using 13 psychometric scales. (2) Directly prompt LLMs to generate numbers. (3) Discussing reliability and validity.
 
-### 🔞 Morality
+###  2.3. <a name='Morality'></a>🔞 Morality
 
 - **Aligning AI With Shared Human Values**, 2020, [[paper]](https://arxiv.org/abs/2008.02275).
 - **Exploring the psychology of GPT-4's Moral and Legal Reasoning**, 2023.08, [[paper]](https://arxiv.org/abs/2308.01264).
@@ -87,7 +101,7 @@ Welcome to contribute and discuss!
 - **Moral Mimicry: Large Language Models Produce Moral Rationalizations Tailored to Political Identity**, 2023.06, [[paper]](https://arxiv.org/abs/2209.12106)
 - **Evaluating the Moral Beliefs Encoded in LLMs**, 2023.07, [[paper]](https://arxiv.org/abs/2307.14324)
 
-### 🎤 Opinion
+###  2.4. <a name='Opinion'></a>🎤 Opinion
 
 - **More human than human: measuring ChatGPT political bias**, 2023, [[paper]](https://link.springer.com/article/10.1007/s11127-023-01097-2).
   
@@ -97,7 +111,7 @@ Welcome to contribute and discuss!
 
   TL;DR: This study explores how to quantitatively assess the representation of subjective global opinions in LLMs. It introduces a dataset from cross-national surveys to capture diverse global perspectives, and develops a metric to measure the similarity between LLM-generated responses and human responses conditioned on nationality, revealing biases and stereotypes in the model's responses.
 
-### 🧠 Ability 
+###  2.5. <a name='Ability'></a>🧠 Ability 
 
 - **Language Models in Sociological Research: An Application to Classifying Large Administrative Data and Measuring Religiosity**, 2021, [[paper]](https://journals.sagepub.com/doi/full/10.1177/00811750211053370).
  
@@ -125,7 +139,7 @@ Welcome to contribute and discuss!
 
 - **Large language models as a substitute for human experts in annotating political text**, 2024.02, [[paper]](https://journals.sagepub.com/doi/10.1177/20531680241236239).
 
-## ⛑️ Alignment
+##  3. <a name='Alignment'></a>⛑️ Alignment
 
 - **ValueNet: A New Dataset for Human Value Driven Dialogue System**, AAAI 2022, [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/21368), [[dataset]](https://liang-qiu.github.io/ValueNet/).
 
@@ -149,7 +163,7 @@ Welcome to contribute and discuss!
 
   TL;DR: Train LLM toward certain MBTI via instruction tuning and direct preference optimization (DPO).
 
-## 🚀 Simulation
+##  4. <a name='Simulation'></a>🚀 Simulation
 
 - **Out of One, Many: Using Language Models to Simulate Human Samples**, 2022, [[paper]](https://arxiv.org/abs/2209.06899).
 
@@ -243,8 +257,10 @@ Welcome to contribute and discuss!
 
   TL;DR: This paper presents WarAgent, an AI system simulating historical conflicts, revealing how historical and policy factors critically drive the inevitability and nature of wars.
 
+- **Emergence of Social Norms in Large Language Model-based Agent Societies**, 2024.03, [[paper]](https://arxiv.org/abs/2403.08251), [[code]](https://github.com/sxswz213/CRSEC).
 
-## 👁️‍🗨️ Perspective
+
+##  5. <a name='Perspective'></a>👁️‍🗨️ Perspective
 
 - **A social path to human-like artificial intelligence**, 2023.11, Nature Machine Intelligence, [[paper]](https://www.nature.com/articles/s42256-023-00754-x).
 
