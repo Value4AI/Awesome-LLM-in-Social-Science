@@ -163,6 +163,8 @@ Welcome to contribute and discuss!
 
   TL;DR: Train LLM toward certain MBTI via instruction tuning and direct preference optimization (DPO).
 
+- **Agent Alignment in Evolving Social Norms**, 2024.01, [[paper]](https://arxiv.org/abs/2401.04620).
+
 ##  4. <a name='Simulation'></a>🚀 Simulation
 
 - **Out of One, Many: Using Language Models to Simulate Human Samples**, 2022, [[paper]](https://arxiv.org/abs/2209.06899).
