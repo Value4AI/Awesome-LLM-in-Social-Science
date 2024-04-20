@@ -27,6 +27,8 @@ Welcome to contribute and discuss!
 
 ##  1. <a name='Survey'></a>📚 Survey 
 
+- **Foundational Challenges in Assuring Alignment and Safety of Large Language Models**, 2024.04, [[paper]](https://arxiv.org/abs/2404.09932).
+- **Large Language Model based Multi-Agents: A Survey of Progress and Challenges**, 2024.01, [[paper]](https://arxiv.org/abs/2402.01680), [[repo]](https://github.com/taichengguo/LLM_MultiAgents_Survey_Papers).
 - **The Rise and Potential of Large Language Model Based Agents: A Survey**, 2023, [[paper]](https://arxiv.org/abs/2309.07864), [[repo]](https://github.com/WooooDyy/LLM-Agent-Paper-List).
 - **A Survey on Large Language Model based Autonomous Agents**, 2023, [[paper]](https://arxiv.org/abs/2308.11432), [[repo]](https://github.com/Paitesanshi/LLM-Agent-Survey).
 - **AI Alignment: A Comprehensive Survey**, 2023.11, [[paper]](https://arxiv.org/abs/2310.19852), [[website]](https://alignmentsurvey.com/).
@@ -35,7 +37,6 @@ Welcome to contribute and discuss!
 - **Large Language Models Empowered Agent-based Modeling and Simulation: A Survey and Perspectives**, 2023.12, [[paper]](https://arxiv.org/abs/2312.11970).
 - **A Survey on Evaluation of Large Language Models**, 2023.07, [[paper]](https://arxiv.org/abs/2307.03109), [[repo]](https://github.com/MLGroupJLU/LLM-eval-survey).
 - **From Instructions to Intrinsic Human Values -- A Survey of Alignment Goals for Big Models**, 2023.08, [[paper]](https://arxiv.org/abs/2308.12014), [[repo]](https://github.com/ValueCompass/Alignment-Goal-Survey).
-- **Large Language Model based Multi-Agents: A Survey of Progress and Challenges**, 2024.01, [[paper]](https://arxiv.org/abs/2402.01680), [[repo]](https://github.com/taichengguo/LLM_MultiAgents_Survey_Papers).
 
 ##  2. <a name='Evaluation'></a>🔎 Evaluation
 
