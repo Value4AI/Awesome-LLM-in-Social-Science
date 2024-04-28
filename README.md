@@ -270,3 +270,5 @@ Welcome to contribute and discuss!
 - **A social path to human-like artificial intelligence**, 2023.11, Nature Machine Intelligence, [[paper]](https://www.nature.com/articles/s42256-023-00754-x).
 
   TL;DR: This paper explores the social pathways to human intelligence, highlighting the roles of collective living, social relationships, and key evolutionary transformations in the development of intelligence.
+
+- **The benefits, risks and bounds of personalizing the alignment of large language models to individuals**, 2024.04, Nature Machine Intelligence, [[paper]](https://www.nature.com/articles/s42256-024-00820-y).
