@@ -169,6 +169,7 @@ Welcome to contribute and discuss!
   TL;DR: Train LLM toward certain MBTI via instruction tuning and direct preference optimization (DPO).
 
 - **Agent Alignment in Evolving Social Norms**, 2024.01, [[paper]](https://arxiv.org/abs/2401.04620).
+- [*Value*] **What are human values, and how do we align AI to them?**, 2024.04, [[paper]](https://arxiv.org/abs/2404.10636).
 
 ##  4. <a name='Simulation'></a>🚀 Simulation
 
