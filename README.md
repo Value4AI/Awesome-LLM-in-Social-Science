@@ -57,6 +57,7 @@ Welcome to contribute and discuss!
 - **Value Kaleidoscope: Engaging AI with Pluralistic Human Values, Rights, and Duties**, AAAI24, [[paper]](https://arxiv.org/abs/2309.00779), [[code]](https://github.com/tsor13/kaleido).
 
 - **High-Dimension Human Value Representation in Large Language Models**, 2024.04, [[paper]](https://arxiv.org/abs/2404.07900), [[code]](https://github.com/HLTCHKUST/UniVaR).
+- **The Potential and Challenges of Evaluating Attitudes, Opinions, and Values in Large Language Models**, 2024.06, [[paper]](https://arxiv.org/abs/2406.11096).
 
 ###  2.2. <a name='Personality'></a>🩷 Personality
 - **Who is GPT-3? An Exploration of Personality, Values and Demographics**, 2022.09, [[paper]](https://arxiv.org/abs/2209.14338)
