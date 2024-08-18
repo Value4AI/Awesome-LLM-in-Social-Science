@@ -153,6 +153,8 @@ Welcome to contribute and discuss!
 
 ## 3. <a name='Tool-enhancement'></a>⚒️ Tool enhancement
 
+- **LLM Agents for Psychology: A Study on Gamified Assessments**, 2024.02, [[paper]](https://arxiv.org/abs/2402.12326)
+
 ## 4. <a name='Alignment'></a>⛑️ Alignment
 
 - **ValueNet: A New Dataset for Human Value Driven Dialogue System**, AAAI 2022, [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/21368), [[dataset]](https://liang-qiu.github.io/ValueNet/).
