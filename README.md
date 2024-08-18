@@ -4,7 +4,7 @@
 Below we compile *awesome* papers that  
 - **evaluate** Large Language Models (LLMs) from a perspective of Social Science.
 - **align** LLMs from a perspective of Social Science.
-- employ LLMs to create **simulation** environments, facilitating research or addressing issues in diverse fields of Social Science.
+- employ LLMs to facilitate research, address issues, and enhance tools in Social Science.
 - contribute **surveys** or **perspectives** on the above topics.
 
 Evaluation, alignment, and simulation are by no means orthogonal. For example, evaluations require simulations. We categorize these papers based on our understanding of their focus.
@@ -15,15 +15,16 @@ Welcome to contribute and discuss!
 ## Table of Contents
 
 * 1. [📚 Survey](#Survey)
-* 2. [🔎 Evaluation](#Evaluation)
+* 2. [🔎 Evaluating LLM](#Evaluating-LLM)
 	* 2.1. [❤️ Value](#Value)
 	* 2.2. [🩷 Personality](#Personality)
 	* 2.3. [🔞 Morality](#Morality)
 	* 2.4. [🎤 Opinion](#Opinion)
 	* 2.5. [🧠 Ability](#Ability)
-* 3. [⛑️ Alignment](#Alignment)
-* 4. [🚀 Simulation](#Simulation)
-* 5. [👁️‍🗨️ Perspective](#Perspective)
+* 3. [⚒️ Tool enhancement](#Tool-enhancement)
+* 4. [⛑️ Alignment](#Alignment)
+* 5. [🚀 Simulation](#Simulation)
+* 6. [👁️‍🗨️ Perspective](#Perspective)
 
 ##  1. <a name='Survey'></a>📚 Survey 
 
@@ -39,7 +40,7 @@ Welcome to contribute and discuss!
 - **A Survey on Evaluation of Large Language Models**, 2023.07, [[paper]](https://arxiv.org/abs/2307.03109), [[repo]](https://github.com/MLGroupJLU/LLM-eval-survey).
 - **From Instructions to Intrinsic Human Values -- A Survey of Alignment Goals for Big Models**, 2023.08, [[paper]](https://arxiv.org/abs/2308.12014), [[repo]](https://github.com/ValueCompass/Alignment-Goal-Survey).
 
-##  2. <a name='Evaluation'></a>🔎 Evaluation
+##  2. <a name='Evaluating-LLM'></a>🔎 Evaluating LLM
 
 ###  2.1. <a name='Value'></a>❤️ Value
 
@@ -61,23 +62,14 @@ Welcome to contribute and discuss!
 
 
 ###  2.2. <a name='Personality'></a>🩷 Personality
-- **Who is GPT-3? An Exploration of Personality, Values and Demographics**, 2022.09, [[paper]](https://arxiv.org/abs/2209.14338)
 
-- [*BFI*] **Identifying and Manipulating the Personality Traits of Language Models**, 2022,12, [[paper]](https://arxiv.org/abs/2212.10276)
+- **Incharacter: Evaluating personality fidelity in role-playing agents through psychological interviews**, ACL 2024, [[paper]](https://aclanthology.org/2024.acl-long.102/), [[code]](https://github.com/Neph0s/InCharacter)
 
-- [*BFI*] **Evaluating and Inducing Personality in Pre-trained Language Models**, NeurIPS 2023 (spotlight), [[paper]](https://arxiv.org/abs/2206.07550)
+- [*MBTI*] **Open Models, Closed Minds? On Agents Capabilities in Mimicking Human Personalities through Open Large Language Models**, 2024.01, [[paper]](https://arxiv.org/abs/2401.07115)
 
-- [*BFI*] **Have Large Language Models Developed a Personality?: Applicability of Self-Assessment Tests in Measuring Personality in LLMs**, 2023.05, [[paper]](https://arxiv.org/abs/2305.14693)
-
-- [*BFI*] **Personality Traits in Large Language Models**, 2023.07, [[paper]](https://arxiv.org/abs/2307.00184)
-
-- [*BFI*] **Revisiting the Reliability of Psychological Scales on Large Language Models**, 2023.05, [[paper]](https://arxiv.org/abs/2305.19926)
-
-- [*BFI*] **Systematic Evaluation of GPT-3 for Zero-Shot Personality Estimation**, ACL 2023 workshop, [[paper]](https://arxiv.org/abs/2306.01183)
+- **Who is ChatGPT? Benchmarking LLMs' Psychological Portrayal Using PsychoBench**, ICLR 2024, [[paper]](https://arxiv.org/abs/2310.01386), [[code]](https://github.com/CUHK-ARISE/PsychoBench)
 
 - [*BFI*] **AI Psychometrics: Assessing the Psychological Profiles of Large Language Models Through Psychometric Inventories**, Journal, 2024.01, [[paper]](https://journals.sagepub.com/doi/full/10.1177/17456916231214460)
-
-- **Does GPT-3 Demonstrate Psychopathy? Evaluating Large Language Models from a Psychological Perspective**, 2022.12, [[paper]](https://arxiv.org/abs/2212.10529)
 
 - **Does Role-Playing Chatbots Capture the Character Personalities? Assessing Personality Traits for Role-Playing Chatbots**, 2023.10, [[paper]](https://arxiv.org/abs/2310.17976)
 
@@ -85,13 +77,24 @@ Welcome to contribute and discuss!
 
 - [*MBTI*] **Can ChatGPT Assess Human Personalities? A General Evaluation Framework**, 2023.03, EMNLP 2023, [[paper]](https://arxiv.org/abs/2303.01248), [[code]](https://github.com/Kali-Hac/ChatGPT-MBTI).
 
-    TL;DR: (1) Using LLM to evaluate MBTI of different groups of people via prompt engineering. (2) Unbiased prompts by averaging over randomly permuted options. (3) Converting the original subject of the question statements into a target subject (e.g., men, barbers). (4) Ask LLM "is it right/wrong" instead of "do you agree/disagree". (5) Metrics to evaluate consistency, robustness, and fairness.
+- [*BFI*] **Personality Traits in Large Language Models**, 2023.07, [[paper]](https://arxiv.org/abs/2307.00184)
 
-- [*MBTI*] **Open Models, Closed Minds? On Agents Capabilities in Mimicking Human Personalities through Open Large Language Models**, 2024.01, [[paper]](https://arxiv.org/abs/2401.07115)
+- [*BFI*] **Revisiting the Reliability of Psychological Scales on Large Language Models**, 2023.05, [[paper]](https://arxiv.org/abs/2305.19926)
 
-- **Who is ChatGPT? Benchmarking LLMs' Psychological Portrayal Using PsychoBench**, ICLR 2024, [[paper]](https://arxiv.org/abs/2310.01386), [[code]](https://github.com/CUHK-ARISE/PsychoBench)
+- [*BFI*] **Systematic Evaluation of GPT-3 for Zero-Shot Personality Estimation**, ACL 2023 workshop, [[paper]](https://arxiv.org/abs/2306.01183)
 
-    TL;DR: (1) Using 13 psychometric scales. (2) Directly prompt LLMs to generate numbers. (3) Discussing reliability and validity.
+
+- [*BFI*] **Have Large Language Models Developed a Personality?: Applicability of Self-Assessment Tests in Measuring Personality in LLMs**, 2023.05, [[paper]](https://arxiv.org/abs/2305.14693)
+
+- [*BFI*] **Evaluating and Inducing Personality in Pre-trained Language Models**, NeurIPS 2023 (spotlight), [[paper]](https://arxiv.org/abs/2206.07550)
+
+
+- [*BFI*] **Identifying and Manipulating the Personality Traits of Language Models**, 2022,12, [[paper]](https://arxiv.org/abs/2212.10276)
+
+- **Who is GPT-3? An Exploration of Personality, Values and Demographics**, 2022.09, [[paper]](https://arxiv.org/abs/2209.14338)
+
+- **Does GPT-3 Demonstrate Psychopathy? Evaluating Large Language Models from a Psychological Perspective**, 2022.12, [[paper]](https://arxiv.org/abs/2212.10529)
+
 
 ###  2.3. <a name='Morality'></a>🔞 Morality
 
@@ -148,7 +151,9 @@ Welcome to contribute and discuss!
 
 - **Large language models as a substitute for human experts in annotating political text**, 2024.02, [[paper]](https://journals.sagepub.com/doi/10.1177/20531680241236239).
 
-##  3. <a name='Alignment'></a>⛑️ Alignment
+## 3. <a name='Tool-enhancement'></a>⚒️ Tool enhancement
+
+## 4. <a name='Alignment'></a>⛑️ Alignment
 
 - **ValueNet: A New Dataset for Human Value Driven Dialogue System**, AAAI 2022, [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/21368), [[dataset]](https://liang-qiu.github.io/ValueNet/).
 
@@ -176,7 +181,7 @@ Welcome to contribute and discuss!
 - [*Value*] **What are human values, and how do we align AI to them?**, 2024.04, [[paper]](https://arxiv.org/abs/2404.10636).
 - **A Roadmap to Pluralistic Alignment**, ICML 2024, [[paper]](https://arxiv.org/abs/2402.05070), [[code]](https://github.com/jfisher52/AI_Pluralistic_Alignment).
 
-##  4. <a name='Simulation'></a>🚀 Simulation
+##  5. <a name='Simulation'></a>🚀 Simulation
 
 - **Out of One, Many: Using Language Models to Simulate Human Samples**, 2022, [[paper]](https://arxiv.org/abs/2209.06899).
 
@@ -273,7 +278,7 @@ Welcome to contribute and discuss!
 - **Emergence of Social Norms in Large Language Model-based Agent Societies**, 2024.03, [[paper]](https://arxiv.org/abs/2403.08251), [[code]](https://github.com/sxswz213/CRSEC).
 
 
-##  5. <a name='Perspective'></a>👁️‍🗨️ Perspective
+##  6. <a name='Perspective'></a>👁️‍🗨️ Perspective
 
 - **A social path to human-like artificial intelligence**, 2023.11, Nature Machine Intelligence, [[paper]](https://www.nature.com/articles/s42256-023-00754-x).
 
