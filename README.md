@@ -153,6 +153,10 @@ Welcome to contribute and discuss!
 
 ## 3. <a name='Tool-enhancement'></a>⚒️ Tool enhancement
 
+- **PsyDI: Towards a Personalized and Progressively In-depth Chatbot for Psychological Measurements**, 2024, [[paper]](https://arxiv.org/abs/2408.03337), [[code]](https://github.com/opendilab/PsyDI).
+
+- **ChatFive: Enhancing User Experience in Likert Scale Personality Test through Interactive Conversation with LLM Agents**, CUI 2024, [[paper]](https://dl.acm.org/doi/abs/10.1145/3640794.3665572)
+
 - **LLM Agents for Psychology: A Study on Gamified Assessments**, 2024.02, [[paper]](https://arxiv.org/abs/2402.12326)
 
 ## 4. <a name='Alignment'></a>⛑️ Alignment
