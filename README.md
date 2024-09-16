@@ -164,7 +164,9 @@ Welcome to contribute and discuss!
 
 - **ChatFive: Enhancing User Experience in Likert Scale Personality Test through Interactive Conversation with LLM Agents**, CUI 2024, [[paper]](https://dl.acm.org/doi/abs/10.1145/3640794.3665572)
 
-- **LLM Agents for Psychology: A Study on Gamified Assessments**, 2024.02, [[paper]](https://arxiv.org/abs/2402.12326)
+- **LLM Agents for Psychology: A Study on Gamified Assessments**, 2024.02, [[paper]](https://arxiv.org/abs/2402.12326).
+
+- **Generative Social Choice**, 2023.09, [[paper]](https://arxiv.org/abs/2309.01291)
 
 ## 4. <a name='Alignment'></a>⛑️ Alignment
 
