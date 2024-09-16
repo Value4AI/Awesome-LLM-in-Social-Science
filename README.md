@@ -29,6 +29,7 @@ Welcome to contribute and discuss!
 ##  1. <a name='Survey'></a>📚 Survey 
 
 - **The Potential and Challenges of Evaluating Attitudes, Opinions, and Values in Large Language Models**, 2024.06, [[paper]](https://arxiv.org/abs/2406.11096).
+- **Can Generative AI improve social science?**, 2024.05, PNAS, [[paper]](https://www.pnas.org/doi/pdf/10.1073/pnas.2314021121).
 - **Foundational Challenges in Assuring Alignment and Safety of Large Language Models**, 2024.04, [[paper]](https://arxiv.org/abs/2404.09932).
 - **Large Language Model based Multi-Agents: A Survey of Progress and Challenges**, 2024.01, [[paper]](https://arxiv.org/abs/2402.01680), [[repo]](https://github.com/taichengguo/LLM_MultiAgents_Survey_Papers).
 - **The Rise and Potential of Large Language Model Based Agents: A Survey**, 2023, [[paper]](https://arxiv.org/abs/2309.07864), [[repo]](https://github.com/WooooDyy/LLM-Agent-Paper-List).
