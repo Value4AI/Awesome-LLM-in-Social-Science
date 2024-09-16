@@ -167,19 +167,13 @@ Welcome to contribute and discuss!
 
 ## 4. <a name='Alignment'></a>⛑️ Alignment
 
-- **ValueNet: A New Dataset for Human Value Driven Dialogue System**, AAAI 2022, [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/21368), [[dataset]](https://liang-qiu.github.io/ValueNet/).
+- **Modular Pluralism: Pluralistic Alignment via Multi-LLM Collaboration**, 2024.06, [[paper]](https://arxiv.org/abs/2406.15951).
 
-- **Fine-tuning language models to find agreement among humans with diverse preferences**, 2022, [[paper]](https://arxiv.org/abs/2211.15006).
+- [*Value*] **What are human values, and how do we align AI to them?**, 2024.04, [[paper]](https://arxiv.org/abs/2404.10636).
 
-  Keywords: consensus, fine-tuning, diverse preferences, alignment
+- **A Roadmap to Pluralistic Alignment**, ICML 2024, [[paper]](https://arxiv.org/abs/2402.05070), [[code]](https://github.com/jfisher52/AI_Pluralistic_Alignment).
 
-  TL;DR: This work fine-tunes LLM to generate statements that maximize the expected approval for a group of people with potentially diverse opinions, especially on moral and political issues.
-
-- **Training Socially Aligned Language Models in Simulated Human Society**, 2023, [[paper]](https://arxiv.org/abs/2305.16960), [[code]](https://github.com/agi-templar/Stable-Alignment).
-
-  Keywords: Stable Alignment, social alignment, societal norms and values, simulated social interactions, contrastive supervised learning
-
-  TL;DR: This paper presents a training paradigm that permits LMs to learn from simulated social interactions for their social alignment. The model trained under such a paradigm better handles “jailbreaking prompts”.
+- **Agent Alignment in Evolving Social Norms**, 2024.01, [[paper]](https://arxiv.org/abs/2401.04620).
 
 - [*Norm*] **Align on the Fly: Adapting Chatbot Behavior to Established Norms**, 2023.12, [[paper]](https://arxiv.org/abs/2312.15907), [[code]](https://github.com/GAIR-NLP/OPO).
 
@@ -189,9 +183,20 @@ Welcome to contribute and discuss!
 
   TL;DR: Train LLM toward certain MBTI via instruction tuning and direct preference optimization (DPO).
 
-- **Agent Alignment in Evolving Social Norms**, 2024.01, [[paper]](https://arxiv.org/abs/2401.04620).
-- [*Value*] **What are human values, and how do we align AI to them?**, 2024.04, [[paper]](https://arxiv.org/abs/2404.10636).
-- **A Roadmap to Pluralistic Alignment**, ICML 2024, [[paper]](https://arxiv.org/abs/2402.05070), [[code]](https://github.com/jfisher52/AI_Pluralistic_Alignment).
+- **Training Socially Aligned Language Models in Simulated Human Society**, 2023, [[paper]](https://arxiv.org/abs/2305.16960), [[code]](https://github.com/agi-templar/Stable-Alignment).
+
+  Keywords: Stable Alignment, social alignment, societal norms and values, simulated social interactions, contrastive supervised learning
+
+  TL;DR: This paper presents a training paradigm that permits LMs to learn from simulated social interactions for their social alignment. The model trained under such a paradigm better handles “jailbreaking prompts”.
+
+- **Fine-tuning language models to find agreement among humans with diverse preferences**, 2022, [[paper]](https://arxiv.org/abs/2211.15006).
+
+  Keywords: consensus, fine-tuning, diverse preferences, alignment
+
+  TL;DR: This work fine-tunes LLM to generate statements that maximize the expected approval for a group of people with potentially diverse opinions, especially on moral and political issues.
+
+- **ValueNet: A New Dataset for Human Value Driven Dialogue System**, AAAI 2022, [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/21368), [[dataset]](https://liang-qiu.github.io/ValueNet/).
+  
 
 ##  5. <a name='Simulation'></a>🚀 Simulation
 
