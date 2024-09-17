@@ -170,6 +170,8 @@ Welcome to contribute and discuss!
 
 ## 4. <a name='Alignment'></a>⛑️ Alignment
 
+- **Policy Prototyping for LLMs: Pluralistic Alignment via Interactive and Collaborative Policymaking**, 2024.09, [[paper]](https://arxiv.org/abs/2409.08622).
+
 - **Modular Pluralism: Pluralistic Alignment via Multi-LLM Collaboration**, 2024.06, [[paper]](https://arxiv.org/abs/2406.15951).
 
 - [*Value*] **What are human values, and how do we align AI to them?**, 2024.04, [[paper]](https://arxiv.org/abs/2404.10636).
