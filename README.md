@@ -28,6 +28,7 @@ Welcome to contribute and discuss!
 
 ##  1. <a name='Survey'></a>📚 Survey 
 
+- **Automated Mining of Structured Knowledge from Text in the Era of Large Language Models**, 2024.08, KDD 2024, [[paper]](https://dl.acm.org/doi/pdf/10.1145/3637528.3671469).
 - **The Potential and Challenges of Evaluating Attitudes, Opinions, and Values in Large Language Models**, 2024.06, [[paper]](https://arxiv.org/abs/2406.11096).
 - **Can Generative AI improve social science?**, 2024.05, PNAS, [[paper]](https://www.pnas.org/doi/pdf/10.1073/pnas.2314021121).
 - **Foundational Challenges in Assuring Alignment and Safety of Large Language Models**, 2024.04, [[paper]](https://arxiv.org/abs/2404.09932).
@@ -204,6 +205,8 @@ Welcome to contribute and discuss!
   
 
 ##  5. <a name='Simulation'></a>🚀 Simulation
+
+- **United in Diversity? Contextual Biases in LLM-Based Predictions of the 2024 European Parliament Elections**, 2024.09, [[paper]](https://arxiv.org/abs/2409.09045).
 
 - **Out of One, Many: Using Language Models to Simulate Human Samples**, 2022, [[paper]](https://arxiv.org/abs/2209.06899).
 
