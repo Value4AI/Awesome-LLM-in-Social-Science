@@ -4,12 +4,14 @@
 Below we compile *awesome* papers that  
 - **evaluate** Large Language Models (LLMs) from a perspective of Social Science.
 - **align** LLMs from a perspective of Social Science.
-- employ LLMs to facilitate research, address issues, and enhance tools in Social Science.
+- employ LLMs to **facilitate research, address issues, and enhance tools** in Social Science.
 - contribute **surveys** or **perspectives** on the above topics.
 
-Evaluation, alignment, and simulation are by no means orthogonal. For example, evaluations require simulations. We categorize these papers based on our understanding of their focus.
+Evaluation, alignment, and simulation are by no means orthogonal. For example, evaluations require simulations. We categorize these papers based on our understanding of their focus. This collection has a special focus on Psychology.
 
 Welcome to contribute and discuss!
+
+\* Papers with a `⭐️` are contributed by the maintainers of this repository.
 
 
 ## Table of Contents
@@ -29,6 +31,7 @@ Welcome to contribute and discuss!
 ##  1. <a name='Survey'></a>📚 Survey 
 
 - **Automated Mining of Structured Knowledge from Text in the Era of Large Language Models**, 2024.08, KDD 2024, [[paper]](https://dl.acm.org/doi/pdf/10.1145/3637528.3671469).
+- **Perils and opportunities in using large language models in psychological research**, 2024.07, [[paper]](https://academic.oup.com/pnasnexus/article/3/7/pgae245/7712371).
 - **The Potential and Challenges of Evaluating Attitudes, Opinions, and Values in Large Language Models**, 2024.06, [[paper]](https://arxiv.org/abs/2406.11096).
 - **Can Generative AI improve social science?**, 2024.05, PNAS, [[paper]](https://www.pnas.org/doi/pdf/10.1073/pnas.2314021121).
 - **Foundational Challenges in Assuring Alignment and Safety of Large Language Models**, 2024.04, [[paper]](https://arxiv.org/abs/2404.09932).
@@ -44,9 +47,15 @@ Welcome to contribute and discuss!
 
 ##  2. <a name='Evaluating-LLM'></a>🔎 Evaluating LLM
 
+- **Quantifying ai psychology: A psychometrics benchmark for large language models**, 2024.07, [[paper]](https://arxiv.org/abs/2406.17675).
+
 ###  2.1. <a name='Value'></a>❤️ Value
 
+- ⭐️ **Measuring Human and AI Values based on Generative Psychometrics with Large Language Models**, 2024.09, [[paper]](https://arxiv.org/abs/2409.12106), [[code]](https://github.com/Value4AI/gpv).
+
 - ⭐️ **ValueBench: Towards Comprehensively Evaluating Value Orientations and Understanding of Large Language Models**, ACL 2024, [[paper]](https://arxiv.org/abs/2406.04214), [[code]](https://github.com/Value4AI/ValueBench).
+
+- **Stick to your role! Stability of personal values expressed in large language models**, 2024.08, [[paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0309114).
 
 - **CLAVE: An Adaptive Framework for Evaluating Values of LLM Generated Responses**, 2024.07, [[paper]](https://arxiv.org/abs/2407.10725).
 
@@ -144,10 +153,6 @@ Welcome to contribute and discuss!
 - **Exploring Collaboration Mechanisms for LLM Agents: A Social Psychology View**, 2023, [[paper]](https://arxiv.org/abs/2310.02124), [[code]](https://github.com/zjunlp/MachineSoM).
 
   TL;DR: This paper explores collaboration mechanisms among LLMs in a multi-agent system by drawing insights from social psychology. Multi-agent collaboration strategies are more important than scaling up single LLMs; fostering effective collaboration is key for more socially-aware AI.
-
-- **Using large language models in psychology**, 2023, [[paper]](https://www.nature.com/articles/s44159-023-00241-5).
-
-  TL;DR: This paper explores the potential applications and concerns of using LLMs in psychological research, and recommends investments in high-quality datasets, performance benchmarks, and infrastructure to enable responsible use of LLMs.
 
 - **Playing repeated games with Large Language Models**, 2023.05, [[paper]](https://arxiv.org/abs/2305.16867).
 
@@ -305,8 +310,10 @@ Welcome to contribute and discuss!
 
 ##  6. <a name='Perspective'></a>👁️‍🗨️ Perspective
 
+- **The benefits, risks and bounds of personalizing the alignment of large language models to individuals**, 2024.04, Nature Machine Intelligence, [[paper]](https://www.nature.com/articles/s42256-024-00820-y).
+
 - **A social path to human-like artificial intelligence**, 2023.11, Nature Machine Intelligence, [[paper]](https://www.nature.com/articles/s42256-023-00754-x).
 
   TL;DR: This paper explores the social pathways to human intelligence, highlighting the roles of collective living, social relationships, and key evolutionary transformations in the development of intelligence.
 
-- **The benefits, risks and bounds of personalizing the alignment of large language models to individuals**, 2024.04, Nature Machine Intelligence, [[paper]](https://www.nature.com/articles/s42256-024-00820-y).
+- **Using large language models in psychology**, 2023.10, Nature reviews psychology, [[paper]](https://www.nature.com/articles/s44159-023-00241-5).
