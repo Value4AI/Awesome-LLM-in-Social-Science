@@ -7,7 +7,7 @@ Below we compile *awesome* papers that
 - employ LLMs to **facilitate research, address issues, and enhance tools** in Social Science.
 - contribute **surveys** or **perspectives** on the above topics.
 
-Evaluation, alignment, and simulation are by no means orthogonal. For example, evaluations require simulations. We categorize these papers based on our understanding of their focus. This collection has a special focus on Psychology.
+Evaluation, alignment, and simulation are by no means orthogonal. For example, evaluations require simulations. We categorize these papers based on our understanding of their focus. This collection has **a special focus on Psychology and Human Values**.
 
 Welcome to contribute and discuss!
 
@@ -213,6 +213,7 @@ Welcome to contribute and discuss!
 
 ##  5. <a name='Simulation'></a>🚀 Simulation
 
+- **On the limits of agency in agent-based models**, 2024.09, [[paper]](https://arxiv.org/abs/2409.10568), [[code]](https://github.com/AgentTorch/AgentTorch).
 - **United in Diversity? Contextual Biases in LLM-Based Predictions of the 2024 European Parliament Elections**, 2024.09, [[paper]](https://arxiv.org/abs/2409.09045).
 
 - **Out of One, Many: Using Language Models to Simulate Human Samples**, 2022, [[paper]](https://arxiv.org/abs/2209.06899).
