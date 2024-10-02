@@ -309,6 +309,8 @@ Welcome to contribute and discuss!
   TL;DR: This paper presents WarAgent, an AI system simulating historical conflicts, revealing how historical and policy factors critically drive the inevitability and nature of wars.
 
 - **Emergence of Social Norms in Large Language Model-based Agent Societies**, 2024.03, [[paper]](https://arxiv.org/abs/2403.08251), [[code]](https://github.com/sxswz213/CRSEC).
+- **Large Content And Behavior Models To Understand, Simulate, And Optimize Content And Behavior**, ICLR-2024, [[paper]](https://openreview.net/forum?id=TrKq4Wlwcz)
+  TL;DR: LLMs are not conventionally designed for predicting and optimizing human behavior. In this paper, we introduce the receivers' "behavior tokens," such as shares, likes, clicks, purchases, and retweets, in the LLM's training corpora to optimize content for the receivers and predict their behaviors. Other than showing similar performance to LLMs on content understanding tasks, our trained models show generalization capabilities on the behavior dimension for behavior simulation, content simulation, behavior understanding, and behavior domain adaptation. 
 
 
 ##  6. <a name='Perspective'></a>👁️‍🗨️ Perspective
