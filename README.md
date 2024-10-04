@@ -178,6 +178,8 @@ Welcome to contribute and discuss!
 
 ## 4. <a name='Alignment'></a>⛑️ Alignment
 
+- **ProgressGym: Alignment with a Millennium of Moral Progress**, NeurIPS 2024 D&B Tract Spotlight, [[paper]](https://arxiv.org/abs/2406.20087), [[code]](https://github.com/PKU-Alignment/ProgressGym).
+
 - **Policy Prototyping for LLMs: Pluralistic Alignment via Interactive and Collaborative Policymaking**, 2024.09, [[paper]](https://arxiv.org/abs/2409.08622).
 
 - **Modular Pluralism: Pluralistic Alignment via Multi-LLM Collaboration**, 2024.06, [[paper]](https://arxiv.org/abs/2406.15951).
