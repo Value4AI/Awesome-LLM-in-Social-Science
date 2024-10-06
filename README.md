@@ -11,7 +11,7 @@ Evaluation, alignment, and simulation are by no means orthogonal. For example, e
 
 Welcome to contribute and discuss!
 
-\* Papers with a `⭐️` are contributed by the maintainers of this repository.
+#### 🤩 Papers with a `⭐️` are contributed by the maintainers of this repository. We would appreciate it if you could give us a star or cite our paper if you find it useful.
 
 
 ## Table of Contents
