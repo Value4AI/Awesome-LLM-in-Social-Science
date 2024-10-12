@@ -141,7 +141,7 @@ Welcome to contribute and discuss!
   TL;DR: This study explores how to quantitatively assess the representation of subjective global opinions in LLMs. It introduces a dataset from cross-national surveys to capture diverse global perspectives, and develops a metric to measure the similarity between LLM-generated responses and human responses conditioned on nationality, revealing biases and stereotypes in the model's responses.
 
 ###  2.5. <a name='Ability'></a>🧠 Ability 
-
+- **Can Language Models Reason about Individualistic Human Values and Preferences?**, 2024.10, [[paper]](https://arxiv.org/abs/2410.03868).
 - **Language Models in Sociological Research: An Application to Classifying Large Administrative Data and Measuring Religiosity**, 2021, [[paper]](https://journals.sagepub.com/doi/full/10.1177/00811750211053370).
  
 - **Can Large Language Models Transform Computational Social Science?**, 2023, [[paper]](https://arxiv.org/abs/2305.03514), [[code]](https://github.com/SALT-NLP/LLMs_for_CSS).
@@ -178,19 +178,14 @@ Welcome to contribute and discuss!
 
 ## 4. <a name='Alignment'></a>⛑️ Alignment
 
+- **PAD: Personalized Alignment at Decoding-Time**, 2024.10, [[paper]](https://arxiv.org/abs/2410.04070).
 - **Moral Alignment for LLM Agents**, 2024.10, [[paper]](https://arxiv.org/abs/2410.01639).
 - **ProgressGym: Alignment with a Millennium of Moral Progress**, NeurIPS 2024 D&B Tract Spotlight, [[paper]](https://arxiv.org/abs/2406.20087), [[code]](https://github.com/PKU-Alignment/ProgressGym).
-
 - **Policy Prototyping for LLMs: Pluralistic Alignment via Interactive and Collaborative Policymaking**, 2024.09, [[paper]](https://arxiv.org/abs/2409.08622).
-
 - **Modular Pluralism: Pluralistic Alignment via Multi-LLM Collaboration**, 2024.06, [[paper]](https://arxiv.org/abs/2406.15951).
-
 - [*Value*] **What are human values, and how do we align AI to them?**, 2024.04, [[paper]](https://arxiv.org/abs/2404.10636).
-
 - **A Roadmap to Pluralistic Alignment**, ICML 2024, [[paper]](https://arxiv.org/abs/2402.05070), [[code]](https://github.com/jfisher52/AI_Pluralistic_Alignment).
-
 - **Agent Alignment in Evolving Social Norms**, 2024.01, [[paper]](https://arxiv.org/abs/2401.04620).
-
 - [*Norm*] **Align on the Fly: Adapting Chatbot Behavior to Established Norms**, 2023.12, [[paper]](https://arxiv.org/abs/2312.15907), [[code]](https://github.com/GAIR-NLP/OPO).
 
   TL;DR: Using RAG to align LLMs with dynamic, diverse human values such as social norms.
@@ -215,7 +210,7 @@ Welcome to contribute and discuss!
   
 
 ##  5. <a name='Simulation'></a>🚀 Simulation
-
+- **Large Language Models can Achieve Social Balance**, 2024.10, [[paper]](https://arxiv.org/abs/2410.04054).
 - **On the limits of agency in agent-based models**, 2024.09, [[paper]](https://arxiv.org/abs/2409.10568), [[code]](https://github.com/AgentTorch/AgentTorch).
 - **United in Diversity? Contextual Biases in LLM-Based Predictions of the 2024 European Parliament Elections**, 2024.09, [[paper]](https://arxiv.org/abs/2409.09045).
 
@@ -287,7 +282,7 @@ Welcome to contribute and discuss!
 
 - **Using Imperfect Surrogates for Downstream Inference: Design-based Supervised Learning for Social Science Applications of Large Language Models**, 2023.06, NeurIPS 2023, [[paper]](https://arxiv.org/abs/2306.04746).
 
-  TL;DR: We present a new algorithm for using outputs from LLMs for downstream statistic analyses while guaranteeing statistical properties -- like asymptotic unbiasedness and proper uncertainty quantification -- which are fundamental to CSS research. (用LLM的输出进行社会科学的文档标签的下游统计分析)
+  TL;DR: We present a new algorithm for using outputs from LLMs for downstream statistic analyses while guaranteeing statistical properties -- like asymptotic unbiasedness and proper uncertainty quantification -- which are fundamental to CSS research.
 
 - **Epidemic Modeling with Generative Agents**, 2023.07, [[paper]](https://arxiv.org/abs/2307.04986), [[code]](https://github.com/bear96/GABM-Epidemic).
 
