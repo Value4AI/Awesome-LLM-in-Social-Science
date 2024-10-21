@@ -168,13 +168,10 @@ Welcome to contribute and discuss!
 - **Large language models as a substitute for human experts in annotating political text**, 2024.02, [[paper]](https://journals.sagepub.com/doi/10.1177/20531680241236239).
 
 ## 3. <a name='Tool-enhancement'></a>⚒️ Tool enhancement
-
+- **AI can help humans find common ground in democratic deliberation**, 2024.10, Science, [[paper]](https://www.science.org/doi/10.1126/science.adq2852).
 - **PsyDI: Towards a Personalized and Progressively In-depth Chatbot for Psychological Measurements**, 2024, [[paper]](https://arxiv.org/abs/2408.03337), [[code]](https://github.com/opendilab/PsyDI).
-
 - **ChatFive: Enhancing User Experience in Likert Scale Personality Test through Interactive Conversation with LLM Agents**, CUI 2024, [[paper]](https://dl.acm.org/doi/abs/10.1145/3640794.3665572)
-
 - **LLM Agents for Psychology: A Study on Gamified Assessments**, 2024.02, [[paper]](https://arxiv.org/abs/2402.12326).
-
 - **Generative Social Choice**, 2023.09, [[paper]](https://arxiv.org/abs/2309.01291)
 
 ## 4. <a name='Alignment'></a>⛑️ Alignment
