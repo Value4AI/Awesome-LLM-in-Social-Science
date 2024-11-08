@@ -168,10 +168,11 @@ Welcome to contribute and discuss!
 ##  5. <a name='Alignment'></a>⛑️ Alignment
 
 - **Aligning Large Language Models with Human Opinions through Persona Selection and Value–Belief–Norm Reasoning**, 2024.11, [[paper]](https://arxiv.org/pdf/2311.08385).
-
 - **SafetyAnalyst: Interpretable, transparent, and steerable LLM safety moderation**, 2024.10, [[paper]](https://arxiv.org/abs/2410.16665).
 - **Moral Alignment for LLM Agents**, 2024.10, [[paper]](https://arxiv.org/abs/2410.01639).
 - **ProgressGym: Alignment with a Millennium of Moral Progress**, NeurIPS 2024 D&B Tract Spotlight, [[paper]](https://arxiv.org/abs/2406.20087), [[code]](https://github.com/PKU-Alignment/ProgressGym).
+- **Strong and weak alignment of large language models with human values**, 2024.08, Nature Scientific Reports, [[paper]](https://www.nature.com/articles/s41598-024-70031-3).
+- **STELA: a community-centred approach to norm elicitation for AI alignment**, 2024.03, Nature Scientific Reports, [[paper]](https://www.nature.com/articles/s41598-024-56648-4).
 - **A Roadmap to Pluralistic Alignment**, ICML 2024, [[paper]](https://arxiv.org/abs/2402.05070), [[code]](https://github.com/jfisher52/AI_Pluralistic_Alignment).
 - [*Value*] **What are human values, and how do we align AI to them?**, 2024.04, [[paper]](https://arxiv.org/abs/2404.10636).
 - **Agent Alignment in Evolving Social Norms**, 2024.01, [[paper]](https://arxiv.org/abs/2401.04620).
@@ -189,7 +190,8 @@ Welcome to contribute and discuss!
 - **Modular Pluralism: Pluralistic Alignment via Multi-LLM Collaboration**, 2024.06, [[paper]](https://arxiv.org/abs/2406.15951).
 
 ##  6. <a name='Simulation'></a>🚀 Simulation
-- **Multi-expert Prompting Improves Reliability, Safety, and Usefulness of Large Language Models**, EMNLP 2024, [[paper]]https://arxiv.org/pdf/2411.00492)
+- **Social Science Meets LLMs: How Reliable Are Large Language Models in Social Simulations?**, 2024.11, [[paper]](https://arxiv.org/abs/2410.23426).
+- **Multi-expert Prompting Improves Reliability, Safety, and Usefulness of Large Language Models**, EMNLP 2024, [[paper]](https://arxiv.org/pdf/2411.00492).
 - **Simulating Opinion Dynamics with Networks of LLM-based Agents**, NAACL Findings 2024, [[paper]](https://aclanthology.org/2024.findings-naacl.211.pdf) [[code]](https://github.com/yunshiuan/llm-agent-opinion-dynamics)
 - **Beyond demographics: Aligning role-playing llm-based agents using human belief networks**, EMNLP Findings 2024, [[paper]](https://arxiv.org/pdf/2406.17232)
 - **The Wisdom of Partisan Crowds: Comparing Collective Intelligence in Humans and LLM-based Agents**, CogSci 2024, [[paper]](https://escholarship.org/content/qt3k67x8s5/qt3k67x8s5_noSplash_f34c019b5fef5ecab5b70e30108f787c.pdf)
