@@ -38,6 +38,7 @@ Welcome to contribute and discuss!
 ---
 
 ##  1. <a name='Survey'></a>📚 Survey 
+- **Survey of Cultural Awareness in Language Models: Text and Beyond**, 2024.11, [[paper]](https://arxiv.org/pdf/2411.00860).
 - **How developments in natural language processing help us in understanding human behaviour**, 2024.10 Nat. Hum. Behav., [[paper]](https://www.nature.com/articles/s41562-024-01938-0.pdf).
 - **Automated Mining of Structured Knowledge from Text in the Era of Large Language Models**, 2024.08, KDD 2024, [[paper]](https://dl.acm.org/doi/pdf/10.1145/3637528.3671469).
 - **Affective Computing in the Era of Large Language Models: A Survey from the NLP Perspective**, 2024.07, [[paper]](https://arxiv.org/abs/2408.04638).
@@ -58,6 +59,7 @@ Welcome to contribute and discuss!
 
 ##  2. <a name='Dataset'></a>🗂️ Dataset
 
+- ⭐️ **ValueBench: Towards Comprehensively Evaluating Value Orientations and Understanding of Large Language Models**, ACL 2024, [[paper]](https://arxiv.org/abs/2406.04214), [[code]](https://github.com/Value4AI/ValueBench).
 - https://lit.eecs.umich.edu/downloads.html
 - **COMPO: Community Preferences for Language Model Personalization**, 2024.10, [[paper]](https://arxiv.org/pdf/2410.16027).
 - **Cultural Commonsense Knowledge for Intercultural Dialogues**, CIKM 2024, [[paper]](https://dl.acm.org/doi/pdf/10.1145/3627673.3679768), [[dataset]](https://mango.mpi-inf.mpg.de/).
@@ -71,6 +73,8 @@ Welcome to contribute and discuss!
 - ⭐️ **Measuring Human and AI Values based on Generative Psychometrics with Large Language Models**, 2024.09, [[paper]](https://arxiv.org/abs/2409.12106), [[code]](https://github.com/Value4AI/gpv).
 
 - ⭐️ **ValueBench: Towards Comprehensively Evaluating Value Orientations and Understanding of Large Language Models**, ACL 2024, [[paper]](https://arxiv.org/abs/2406.04214), [[code]](https://github.com/Value4AI/ValueBench).
+
+- **LOCALVALUEBENCH: A Collaboratively Built and Extensible Benchmark for Evaluating Localized Value Alignment and Ethical Safety in Large Language Models**, 2024.08, [[paper]](https://arxiv.org/abs/2408.01460).
 
 - **Stick to your role! Stability of personal values expressed in large language models**, 2024.08, [[paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0309114).
 
