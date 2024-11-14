@@ -78,6 +78,8 @@ Welcome to contribute and discuss!
 
 - **Stick to your role! Stability of personal values expressed in large language models**, 2024.08, [[paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0309114).
 
+- **Raising the Bar: Investigating the Values of Large Language Models via Generative Evolving Testing**, 2024.07, [[paper]](https://arxiv.org/abs/2406.14230).
+
 - **Do LLMs have Consistent Values?**, 2024.07, [[paper]](https://arxiv.org/abs/2407.12878).
 
 - **CLAVE: An Adaptive Framework for Evaluating Values of LLM Generated Responses**, 2024.07, [[paper]](https://arxiv.org/abs/2407.10725).
