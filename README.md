@@ -74,6 +74,8 @@ Welcome to contribute and discuss!
 
 - ⭐️ **ValueBench: Towards Comprehensively Evaluating Value Orientations and Understanding of Large Language Models**, ACL 2024, [[paper]](https://arxiv.org/abs/2406.04214), [[code]](https://github.com/Value4AI/ValueBench).
 
+- **NORMAD: A Framework for Measuring the Cultural Adaptability of Large Language Models**, 2024.10, [[paper]](https://arxiv.org/abs/2404.12464).
+
 - **LOCALVALUEBENCH: A Collaboratively Built and Extensible Benchmark for Evaluating Localized Value Alignment and Ethical Safety in Large Language Models**, 2024.08, [[paper]](https://arxiv.org/abs/2408.01460).
 
 - **Stick to your role! Stability of personal values expressed in large language models**, 2024.08, [[paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0309114).
