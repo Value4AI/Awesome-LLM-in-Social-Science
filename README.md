@@ -199,6 +199,7 @@ Welcome to contribute and discuss!
 - **Modular Pluralism: Pluralistic Alignment via Multi-LLM Collaboration**, 2024.06, [[paper]](https://arxiv.org/abs/2406.15951).
 
 ##  6. <a name='Simulation'></a>🚀 Simulation
+- **Generative Agent Simulations of 1,000 People**, 2024.11, [[paper]](https://arxiv.org/abs/2411.10109).
 - **Social Science Meets LLMs: How Reliable Are Large Language Models in Social Simulations?**, 2024.11, [[paper]](https://arxiv.org/abs/2410.23426).
 - **Multi-expert Prompting Improves Reliability, Safety, and Usefulness of Large Language Models**, EMNLP 2024, [[paper]](https://arxiv.org/pdf/2411.00492).
 - **Simulating Opinion Dynamics with Networks of LLM-based Agents**, NAACL Findings 2024, [[paper]](https://aclanthology.org/2024.findings-naacl.211.pdf) [[code]](https://github.com/yunshiuan/llm-agent-opinion-dynamics)
