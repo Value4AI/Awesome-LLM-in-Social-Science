@@ -7,7 +7,7 @@ Below we compile *awesome* papers that
 - employ LLMs to **facilitate research, address issues, and enhance tools** in Social Science.
 - contribute **surveys**, **perspectives**, and **datasets** on the above topics.
 
-Evaluation, alignment, and simulation are by no means orthogonal. For example, evaluations require simulations. We categorize these papers based on our understanding of their focus. This collection has **a special focus on Psychology and Human Values**.
+The above taxonomies are by no means orthogonal. For example, evaluations require simulations. We categorize these papers based on our understanding of their focus. This collection has **a special focus on Psychology and Human Values**.
 
 Welcome to contribute and discuss!
 
