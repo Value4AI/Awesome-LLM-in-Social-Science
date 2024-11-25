@@ -156,6 +156,7 @@ Welcome to contribute and discuss!
 - **Diverging Preferences: When do Annotators Disagree and do Models Know?**, 2024.10, [[paper]](https://arxiv.org/abs/2410.14632).
 
 ###  3.6. <a name='Ability'></a>🧠 Ability 
+- **Replication for Language Models: Problems, Principles, and Best Practice for Political Science**, 2024.10, [[paper]](https://arthurspirling.org/documents/BarriePalmerSpirling_TrustMeBro.pdf).
 - **Can Language Models Reason about Individualistic Human Values and Preferences?**, 2024.10, [[paper]](https://arxiv.org/abs/2410.03868).
 - **Language Models in Sociological Research: An Application to Classifying Large Administrative Data and Measuring Religiosity**, 2021, [[paper]](https://journals.sagepub.com/doi/full/10.1177/00811750211053370).
 - **Can Large Language Models Transform Computational Social Science?**, 2023, [[paper]](https://arxiv.org/abs/2305.03514), [[code]](https://github.com/SALT-NLP/LLMs_for_CSS).
