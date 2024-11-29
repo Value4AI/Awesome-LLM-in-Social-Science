@@ -39,7 +39,8 @@ Welcome to contribute and discuss!
 
 ##  1. <a name='Survey'></a>📚 Survey 
 - **Survey of Cultural Awareness in Language Models: Text and Beyond**, 2024.11, [[paper]](https://arxiv.org/pdf/2411.00860).
-- **How developments in natural language processing help us in understanding human behaviour**, 2024.10 Nat. Hum. Behav., [[paper]](https://www.nature.com/articles/s41562-024-01938-0.pdf).
+- **How developments in natural language processing help us in understanding human behaviour**, 2024.10 Nature Human Behavior, [[paper]](https://www.nature.com/articles/s41562-024-01938-0.pdf).
+- **How large language models can reshape collective intelligence**, 2024.09, Nature Human Behavior, [[paper]](https://www.nature.com/articles/s41562-024-01959-9).
 - **Automated Mining of Structured Knowledge from Text in the Era of Large Language Models**, 2024.08, KDD 2024, [[paper]](https://dl.acm.org/doi/pdf/10.1145/3637528.3671469).
 - **Affective Computing in the Era of Large Language Models: A Survey from the NLP Perspective**, 2024.07, [[paper]](https://arxiv.org/abs/2408.04638).
 - **Perils and opportunities in using large language models in psychological research**, 2024.07, [[paper]](https://academic.oup.com/pnasnexus/article/3/7/pgae245/7712371).
@@ -231,7 +232,6 @@ Welcome to contribute and discuss!
 - **Large Content And Behavior Models To Understand, Simulate, And Optimize Content And Behavior**, ICLR-2024, [[paper]](https://openreview.net/forum?id=TrKq4Wlwcz)
 
 ##  7. <a name='Perspective'></a>👁️‍🗨️ Perspective
-
 - **The benefits, risks and bounds of personalizing the alignment of large language models to individuals**, 2024.04, Nature Machine Intelligence, [[paper]](https://www.nature.com/articles/s42256-024-00820-y).
 - **A social path to human-like artificial intelligence**, 2023.11, Nature Machine Intelligence, [[paper]](https://www.nature.com/articles/s42256-023-00754-x).
 - **Using large language models in psychology**, 2023.10, Nature reviews psychology, [[paper]](https://www.nature.com/articles/s44159-023-00241-5).
