@@ -38,6 +38,7 @@ Welcome to contribute and discuss!
 ---
 
 ##  1. <a name='Survey'></a>📚 Survey 
+- **A Survey on Human-Centric LLMs**, 2024.11, [[paper]](https://arxiv.org/abs/2411.14491).
 - **Survey of Cultural Awareness in Language Models: Text and Beyond**, 2024.11, [[paper]](https://arxiv.org/pdf/2411.00860).
 - **How developments in natural language processing help us in understanding human behaviour**, 2024.10 Nature Human Behavior, [[paper]](https://www.nature.com/articles/s41562-024-01938-0.pdf).
 - **How large language models can reshape collective intelligence**, 2024.09, Nature Human Behavior, [[paper]](https://www.nature.com/articles/s41562-024-01959-9).
@@ -61,6 +62,7 @@ Welcome to contribute and discuss!
 ##  2. <a name='Dataset'></a>🗂️ Dataset
 
 - ⭐️ **ValueBench: Towards Comprehensively Evaluating Value Orientations and Understanding of Large Language Models**, ACL 2024, [[paper]](https://arxiv.org/abs/2406.04214), [[code]](https://github.com/Value4AI/ValueBench).
+- **HATEDAY: Insights from a Global Hate Speech Dataset Representative of a Day on Twitter**, 2024.11, [[paper]](https://arxiv.org/abs/2411.15462).
 - https://lit.eecs.umich.edu/downloads.html
 - **COMPO: Community Preferences for Language Model Personalization**, 2024.10, [[paper]](https://arxiv.org/pdf/2410.16027).
 - **Cultural Commonsense Knowledge for Intercultural Dialogues**, CIKM 2024, [[paper]](https://dl.acm.org/doi/pdf/10.1145/3627673.3679768), [[dataset]](https://mango.mpi-inf.mpg.de/).
@@ -147,9 +149,7 @@ Welcome to contribute and discuss!
 - **Evaluating the Moral Beliefs Encoded in LLMs**, 2023.07, [[paper]](https://arxiv.org/abs/2307.14324)
 
 ###  3.4. <a name='Opinion'></a>🎤 Opinion
-
 - **More human than human: measuring ChatGPT political bias**, 2023, [[paper]](https://link.springer.com/article/10.1007/s11127-023-01097-2).
-
 - **Towards Measuring the Representation of Subjective Global Opinions in Language Models**, 2023.07, [[paper]](https://arxiv.org/abs/2306.16388), [[website]](https://llmglobalvalues.anthropic.com/).
 
 ###  3.5. <a name='GeneralPreference'></a>💚 General Preference
@@ -169,6 +169,7 @@ Welcome to contribute and discuss!
 - **Large language models as a substitute for human experts in annotating political text**, 2024.02, [[paper]](https://journals.sagepub.com/doi/10.1177/20531680241236239).
 
 ##  4. <a name='Toolenhancement'></a>⚒️ Tool enhancement
+- **ValueScope: Unveiling Implicit Norms and Values via Return Potential Model of Social Interactions**, 2024.10, [[paper]](https://arxiv.org/abs/2407.02472).
 - **AI can help humans find common ground in democratic deliberation**, 2024.10, Science, [[paper]](https://www.science.org/doi/10.1126/science.adq2852).
 - **PsyDI: Towards a Personalized and Progressively In-depth Chatbot for Psychological Measurements**, 2024, [[paper]](https://arxiv.org/abs/2408.03337), [[code]](https://github.com/opendilab/PsyDI).
 - **ChatFive: Enhancing User Experience in Likert Scale Personality Test through Interactive Conversation with LLM Agents**, CUI 2024, [[paper]](https://dl.acm.org/doi/abs/10.1145/3640794.3665572)
