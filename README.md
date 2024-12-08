@@ -62,6 +62,7 @@ Welcome to contribute and discuss!
 ##  2. <a name='Dataset'></a>🗂️ Dataset
 
 - ⭐️ **ValueBench: Towards Comprehensively Evaluating Value Orientations and Understanding of Large Language Models**, ACL 2024, [[paper]](https://arxiv.org/abs/2406.04214), [[code]](https://github.com/Value4AI/ValueBench).
+- https://github.com/CLUEbenchmark/CLUEDatasetSearch
 - **HATEDAY: Insights from a Global Hate Speech Dataset Representative of a Day on Twitter**, 2024.11, [[paper]](https://arxiv.org/abs/2411.15462).
 - https://lit.eecs.umich.edu/downloads.html
 - **COMPO: Community Preferences for Language Model Personalization**, 2024.10, [[paper]](https://arxiv.org/pdf/2410.16027).
