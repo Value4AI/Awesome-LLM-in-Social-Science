@@ -38,6 +38,7 @@ Welcome to contribute and discuss!
 ---
 
 ##  1. <a name='Survey'></a>📚 Survey 
+- **From Individual to Society: A Survey on Social Simulation Driven by Large Language Model-based Agents**, 2024.12, [[paper]](https://arxiv.org/abs/2412.03563), [[repo]](https://github.com/FudanDISC/SocialAgent).
 - **A Survey on Human-Centric LLMs**, 2024.11, [[paper]](https://arxiv.org/abs/2411.14491).
 - **Survey of Cultural Awareness in Language Models: Text and Beyond**, 2024.11, [[paper]](https://arxiv.org/pdf/2411.00860).
 - **How developments in natural language processing help us in understanding human behaviour**, 2024.10 Nature Human Behavior, [[paper]](https://www.nature.com/articles/s41562-024-01938-0.pdf).
