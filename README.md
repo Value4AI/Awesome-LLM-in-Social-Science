@@ -28,6 +28,7 @@ Welcome to contribute and discuss!
 	* 3.4. [🎤 Opinion](#Opinion)
 	* 3.5. [💚 General Preference](#GeneralPreference)
 	* 3.6. [🧠 Ability](#Ability)
+	* 3.7. [⚠️ Risk](#Risk) 
 * 4. [⚒️ Tool enhancement](#Toolenhancement)
 * 5. [⛑️ Alignment](#Alignment)
 	* 5.1. [🌈 Pluralistic Alignment](#PluralisticAlignment)
@@ -38,6 +39,8 @@ Welcome to contribute and discuss!
 ---
 
 ##  1. <a name='Survey'></a>📚 Survey 
+- **Political-LLM: Large Language Models in Political Science**, 2024.12, [[paper]](https://arxiv.org/abs/2412.06864), [[website]](https://political-llm.org/).
+- **LLMs-as-Judges: A Comprehensive Survey on LLM-based Evaluation Methods**, 2024.12, [[paper]](https://arxiv.org/abs/2412.05579).
 - **From Individual to Society: A Survey on Social Simulation Driven by Large Language Model-based Agents**, 2024.12, [[paper]](https://arxiv.org/abs/2412.03563), [[repo]](https://github.com/FudanDISC/SocialAgent).
 - **A Survey on Human-Centric LLMs**, 2024.11, [[paper]](https://arxiv.org/abs/2411.14491).
 - **Survey of Cultural Awareness in Language Models: Text and Beyond**, 2024.11, [[paper]](https://arxiv.org/pdf/2411.00860).
@@ -169,6 +172,10 @@ Welcome to contribute and discuss!
 - **Machine Psychology: Investigating Emergent Capabilities and Behavior in Large Language Models Using Psychological Methods**, 2023, [[paper]](https://arxiv.org/abs/2303.13988).
 - **Using cognitive psychology to understand GPT-3**, 2023.02, PNAS, [[paper]](https://www.pnas.org/doi/full/10.1073/pnas.2218523120?doi=10.1073%2Fpnas.2218523120).
 - **Large language models as a substitute for human experts in annotating political text**, 2024.02, [[paper]](https://journals.sagepub.com/doi/10.1177/20531680241236239).
+
+### 3.7. <a name='Risk'></a>❤️ Risk
+
+- **From Lived Experience to Insight: Unpacking the Psychological Risks of Using AI Conversational Agents**, 2024.12, [[paper]](https://arxiv.org/abs/2412.07951).
 
 ##  4. <a name='Toolenhancement'></a>⚒️ Tool enhancement
 - **ValueScope: Unveiling Implicit Norms and Values via Return Potential Model of Social Interactions**, 2024.10, [[paper]](https://arxiv.org/abs/2407.02472).
