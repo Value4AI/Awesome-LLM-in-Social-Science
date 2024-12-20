@@ -74,8 +74,6 @@ Welcome to contribute and discuss!
 
 ##  3. <a name='EvaluatingLLM'></a>🔎 Evaluating LLM
 
-- **Quantifying ai psychology: A psychometrics benchmark for large language models**, 2024.07, [[paper]](https://arxiv.org/abs/2406.17675).
-
 ###  3.1. <a name='Value'></a>❤️ Value
 
 - ⭐️ **Measuring Human and AI Values Based on Generative Psychometrics with Large Language Models**, AAAI 2025, [[paper]](https://arxiv.org/abs/2409.12106), [[code]](https://github.com/Value4AI/gpv).
@@ -110,6 +108,8 @@ Welcome to contribute and discuss!
 
 
 ###  3.2. <a name='Personality'></a>🩷 Personality
+
+- **Quantifying ai psychology: A psychometrics benchmark for large language models**, 2024.07, [[paper]](https://arxiv.org/abs/2406.17675).
 
 - **Incharacter: Evaluating personality fidelity in role-playing agents through psychological interviews**, ACL 2024, [[paper]](https://aclanthology.org/2024.acl-long.102/), [[code]](https://github.com/Neph0s/InCharacter)
 
@@ -173,9 +173,11 @@ Welcome to contribute and discuss!
 - **Using cognitive psychology to understand GPT-3**, 2023.02, PNAS, [[paper]](https://www.pnas.org/doi/full/10.1073/pnas.2218523120?doi=10.1073%2Fpnas.2218523120).
 - **Large language models as a substitute for human experts in annotating political text**, 2024.02, [[paper]](https://journals.sagepub.com/doi/10.1177/20531680241236239).
 
-### 3.7. <a name='Risk'></a>❤️ Risk
+### 3.7. <a name='Risk'></a>❤️ Risk and Safety
 
 - **From Lived Experience to Insight: Unpacking the Psychological Risks of Using AI Conversational Agents**, 2024.12, [[paper]](https://arxiv.org/abs/2412.07951).
+
+- **AIR-Bench 2024: A Safety Benchmark Based on Risk Categories from Regulations and Policies**, 2024.07, [[paper]](https://arxiv.org/abs/2407.17436).
 
 ##  4. <a name='Toolenhancement'></a>⚒️ Tool enhancement
 - **ValueScope: Unveiling Implicit Norms and Values via Return Potential Model of Social Interactions**, 2024.10, [[paper]](https://arxiv.org/abs/2407.02472).
