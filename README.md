@@ -39,6 +39,8 @@ Welcome to contribute and discuss!
 ---
 
 ##  1. <a name='Survey'></a>📚 Survey 
+- **The Road to Artificial SuperIntelligence: A Comprehensive Survey of Superalignment**, 2024.12, [[paper]](https://arxiv.org/abs/2412.16468).
+- **Large Language Model Safety: A Holistic Survey**, 2024.12, [[paper]](https://arxiv.org/abs/2412.17686).
 - **Political-LLM: Large Language Models in Political Science**, 2024.12, [[paper]](https://arxiv.org/abs/2412.06864), [[website]](https://political-llm.org/).
 - **LLMs-as-Judges: A Comprehensive Survey on LLM-based Evaluation Methods**, 2024.12, [[paper]](https://arxiv.org/abs/2412.05579).
 - **From Individual to Society: A Survey on Social Simulation Driven by Large Language Model-based Agents**, 2024.12, [[paper]](https://arxiv.org/abs/2412.03563), [[repo]](https://github.com/FudanDISC/SocialAgent).
