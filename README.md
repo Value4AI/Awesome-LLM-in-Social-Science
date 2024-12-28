@@ -68,6 +68,7 @@ Welcome to contribute and discuss!
 ##  2. <a name='Dataset'></a>🗂️ Dataset
 
 - ⭐️ **ValueBench: Towards Comprehensively Evaluating Value Orientations and Understanding of Large Language Models**, ACL 2024, [[paper]](https://arxiv.org/abs/2406.04214), [[code]](https://github.com/Value4AI/ValueBench).
+- **Automating Dataset Updates Towards Reliable and Timely Evaluation of Large Language Models**, NeurIPS 2024, [[paper]](https://arxiv.org/abs/2402.11894).
 - https://github.com/CLUEbenchmark/CLUEDatasetSearch
 - **HATEDAY: Insights from a Global Hate Speech Dataset Representative of a Day on Twitter**, 2024.11, [[paper]](https://arxiv.org/abs/2411.15462).
 - https://lit.eecs.umich.edu/downloads.html
@@ -156,6 +157,7 @@ Welcome to contribute and discuss!
 - **Evaluating the Moral Beliefs Encoded in LLMs**, 2023.07, [[paper]](https://arxiv.org/abs/2307.14324)
 
 ###  3.4. <a name='Opinion'></a>🎤 Opinion
+- **Questioning the Survey Responses of Large Language Models**, NeurIPS 2024 Oral, [[paper]](https://arxiv.org/abs/2306.07951).
 - **More human than human: measuring ChatGPT political bias**, 2023, [[paper]](https://link.springer.com/article/10.1007/s11127-023-01097-2).
 - **Towards Measuring the Representation of Subjective Global Opinions in Language Models**, 2023.07, [[paper]](https://arxiv.org/abs/2306.16388), [[website]](https://llmglobalvalues.anthropic.com/).
 
@@ -164,6 +166,7 @@ Welcome to contribute and discuss!
 - **Diverging Preferences: When do Annotators Disagree and do Models Know?**, 2024.10, [[paper]](https://arxiv.org/abs/2410.14632).
 
 ###  3.6. <a name='Ability'></a>🧠 Ability 
+- **Cheating Automatic LLM Benchmarks: Null Models Achieve High Win Rates**, NeurIPS 2024, [[paper]](https://arxiv.org/abs/2410.07137).
 - **Replication for Language Models: Problems, Principles, and Best Practice for Political Science**, 2024.10, [[paper]](https://arthurspirling.org/documents/BarriePalmerSpirling_TrustMeBro.pdf).
 - **Can Language Models Reason about Individualistic Human Values and Preferences?**, 2024.10, [[paper]](https://arxiv.org/abs/2410.03868).
 - **Language Models in Sociological Research: An Application to Classifying Large Administrative Data and Measuring Religiosity**, 2021, [[paper]](https://journals.sagepub.com/doi/full/10.1177/00811750211053370).
@@ -215,6 +218,7 @@ Welcome to contribute and discuss!
 - **Modular Pluralism: Pluralistic Alignment via Multi-LLM Collaboration**, 2024.06, [[paper]](https://arxiv.org/abs/2406.15951).
 
 ##  6. <a name='Simulation'></a>🚀 Simulation
+- **Can Large Language Model Agents Simulate Human Trust Behavior?**, NeurIPS 2024, [[paper]](https://arxiv.org/abs/2402.04559).
 - **OASIS: Open Agents Social Interaction Simulations on One Million Agents**, 2024.11, [[paper]](https://arxiv.org/abs/2411.11581), [[code]](https://github.com/camel-ai/oasis).
 - **Generative Agent Simulations of 1,000 People**, 2024.11, [[paper]](https://arxiv.org/abs/2411.10109).
 - **Social Science Meets LLMs: How Reliable Are Large Language Models in Social Simulations?**, 2024.11, [[paper]](https://arxiv.org/abs/2410.23426).
