@@ -83,6 +83,8 @@ Welcome to contribute and discuss!
 
 - ⭐️ **ValueBench: Towards Comprehensively Evaluating Value Orientations and Understanding of Large Language Models**, ACL 2024, [[paper]](https://arxiv.org/abs/2406.04214), [[code]](https://github.com/Value4AI/ValueBench).
 
+- **Causal Graph Guided Steering of LLM Values via Prompts and Sparse Autoencoders**, 2025.01, [[paper]](https://arxiv.org/abs/2501.00581).
+
 - **NORMAD: A Framework for Measuring the Cultural Adaptability of Large Language Models**, 2024.10, [[paper]](https://arxiv.org/abs/2404.12464).
 
 - **LOCALVALUEBENCH: A Collaboratively Built and Extensible Benchmark for Evaluating Localized Value Alignment and Ethical Safety in Large Language Models**, 2024.08, [[paper]](https://arxiv.org/abs/2408.01460).
