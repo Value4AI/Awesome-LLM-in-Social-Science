@@ -218,6 +218,8 @@ Welcome to contribute and discuss!
 - **PAD: Personalized Alignment at Decoding-Time**, 2024.10, [[paper]](https://arxiv.org/abs/2410.04070).
 - **Policy Prototyping for LLMs: Pluralistic Alignment via Interactive and Collaborative Policymaking**, 2024.09, [[paper]](https://arxiv.org/abs/2409.08622).
 - **Modular Pluralism: Pluralistic Alignment via Multi-LLM Collaboration**, 2024.06, [[paper]](https://arxiv.org/abs/2406.15951).
+- **Self-Pluralising Culture Alignment for Large Language Models**, 2024.10, [[paper]](https://arxiv.org/abs/2410.12971).
+- **Cultural Palette: Pluralising Culture Alignment via Multi-agent Palette**, 2024.12, [[paper]](https://arxiv.org/abs/2412.11167).
 
 ##  6. <a name='Simulation'></a>🚀 Simulation
 - **Can Large Language Model Agents Simulate Human Trust Behavior?**, NeurIPS 2024, [[paper]](https://arxiv.org/abs/2402.04559).
