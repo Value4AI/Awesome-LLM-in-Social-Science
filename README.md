@@ -154,13 +154,13 @@ Welcome to contribute and discuss!
 
 
 ###  3.3. <a name='Morality'></a>🔞 Morality
-
-- **Aligning AI With Shared Human Values**, 2020, [[paper]](https://arxiv.org/abs/2008.02275).
+- **Investigating machine moral judgement through the Delphi experiment**, Nature Machine Intelligence, 2025.01, [[paper]](https://www.nature.com/articles/s42256-024-00969-6).
+- **Moral Foundations of Large Language Models**, 2023.10, [[paper]](https://arxiv.org/abs/2310.15337).
 - **Exploring the psychology of GPT-4's Moral and Legal Reasoning**, 2023.08, [[paper]](https://arxiv.org/abs/2308.01264).
 - **Probing the Moral Development of Large Language Models through Defining Issues Test**
-- **Moral Foundations of Large Language Models**, 2023.10, [[paper]](https://arxiv.org/abs/2310.15337).
 - **Moral Mimicry: Large Language Models Produce Moral Rationalizations Tailored to Political Identity**, 2023.06, [[paper]](https://arxiv.org/abs/2209.12106)
 - **Evaluating the Moral Beliefs Encoded in LLMs**, 2023.07, [[paper]](https://arxiv.org/abs/2307.14324)
+
 
 ###  3.4. <a name='Opinion'></a>🎤 Opinion
 - **Questioning the Survey Responses of Large Language Models**, NeurIPS 2024 Oral, [[paper]](https://arxiv.org/abs/2306.07951).
