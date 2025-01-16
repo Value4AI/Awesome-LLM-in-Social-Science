@@ -116,6 +116,8 @@ Welcome to contribute and discuss!
 
 ###  3.2. <a name='Personality'></a>🩷 Personality
 
+- **Evaluating the ability of large language models to emulate personality**, 2025.01, Nature Scientific Reports, [[paper]](https://www.nature.com/articles/s41598-024-84109-5).
+- **Evaluating the efficacy of LLMs to emulate realistic human personalities**, AAAI 2024, [[paper]](https://ojs.aaai.org/index.php/AIIDE/article/view/31867).
 - **Quantifying ai psychology: A psychometrics benchmark for large language models**, 2024.07, [[paper]](https://arxiv.org/abs/2406.17675).
 
 - **Incharacter: Evaluating personality fidelity in role-playing agents through psychological interviews**, ACL 2024, [[paper]](https://aclanthology.org/2024.acl-long.102/), [[code]](https://github.com/Neph0s/InCharacter)
@@ -224,6 +226,7 @@ Welcome to contribute and discuss!
 - **Cultural Palette: Pluralising Culture Alignment via Multi-agent Palette**, 2024.12, [[paper]](https://arxiv.org/abs/2412.11167).
 
 ##  6. <a name='Simulation'></a>🚀 Simulation
+- **Political Actor Agent: Simulating Legislative System for Roll Call Votes Prediction with Large Language Models**, AAAI 2025, [[paper]](https://arxiv.org/abs/2412.07144).
 - **Can Large Language Model Agents Simulate Human Trust Behavior?**, NeurIPS 2024, [[paper]](https://arxiv.org/abs/2402.04559).
 - **OASIS: Open Agents Social Interaction Simulations on One Million Agents**, 2024.11, [[paper]](https://arxiv.org/abs/2411.11581), [[code]](https://github.com/camel-ai/oasis).
 - **Generative Agent Simulations of 1,000 People**, 2024.11, [[paper]](https://arxiv.org/abs/2411.10109).
