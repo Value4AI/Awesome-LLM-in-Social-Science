@@ -66,7 +66,7 @@ Welcome to contribute and discuss!
 
 
 ##  2. <a name='Dataset'></a>🗂️ Dataset
-
+- **The PRISM Alignment Dataset: What Participatory, Representative and Individualised Human Feedback Reveals About the Subjective and Multicultural Alignment of Large Language Models**, NeurIPS 2024 D&B Track best paper, [[paper]](https://arxiv.org/abs/2404.16019).
 - ⭐️ **ValueBench: Towards Comprehensively Evaluating Value Orientations and Understanding of Large Language Models**, ACL 2024, [[paper]](https://arxiv.org/abs/2406.04214), [[code]](https://github.com/Value4AI/ValueBench).
 - **Automating Dataset Updates Towards Reliable and Timely Evaluation of Large Language Models**, NeurIPS 2024, [[paper]](https://arxiv.org/abs/2402.11894).
 - https://github.com/CLUEbenchmark/CLUEDatasetSearch
@@ -193,6 +193,7 @@ Welcome to contribute and discuss!
 - **AIR-Bench 2024: A Safety Benchmark Based on Risk Categories from Regulations and Policies**, 2024.07, [[paper]](https://arxiv.org/abs/2407.17436).
 
 ##  4. <a name='Toolenhancement'></a>⚒️ Tool enhancement
+- **STAMPsy: Towards SpatioTemporal-Aware Mixed-Type Dialogues for Psychological Counseling**, AAAI 2025, [[paper]](https://arxiv.org/abs/2412.16674).
 - **ValueScope: Unveiling Implicit Norms and Values via Return Potential Model of Social Interactions**, 2024.10, [[paper]](https://arxiv.org/abs/2407.02472).
 - **AI can help humans find common ground in democratic deliberation**, 2024.10, Science, [[paper]](https://www.science.org/doi/10.1126/science.adq2852).
 - **PsyDI: Towards a Personalized and Progressively In-depth Chatbot for Psychological Measurements**, 2024, [[paper]](https://arxiv.org/abs/2408.03337), [[code]](https://github.com/opendilab/PsyDI).
@@ -201,11 +202,11 @@ Welcome to contribute and discuss!
 - **Generative Social Choice**, 2023.09, [[paper]](https://arxiv.org/abs/2309.01291)
 
 ##  5. <a name='Alignment'></a>⛑️ Alignment
-
-- **Aligning Large Language Models with Human Opinions through Persona Selection and Value–Belief–Norm Reasoning**, 2024.11, [[paper]](https://arxiv.org/pdf/2311.08385).
+- **Scopes of Alignment**, 2025.01, AAAI 2025 workshop, [[paper]](https://arxiv.org/abs/2501.12405)
+- **Aligning Large Language Models with Human Opinions through Persona Selection and Value-Belief-Norm Reasoning**, 2024.11, [[paper]](https://arxiv.org/pdf/2311.08385).
 - **SafetyAnalyst: Interpretable, transparent, and steerable LLM safety moderation**, 2024.10, [[paper]](https://arxiv.org/abs/2410.16665).
 - **Moral Alignment for LLM Agents**, 2024.10, [[paper]](https://arxiv.org/abs/2410.01639).
-- **ProgressGym: Alignment with a Millennium of Moral Progress**, NeurIPS 2024 D&B Tract Spotlight, [[paper]](https://arxiv.org/abs/2406.20087), [[code]](https://github.com/PKU-Alignment/ProgressGym).
+- **ProgressGym: Alignment with a Millennium of Moral Progress**, NeurIPS 2024 D&B Track Spotlight, [[paper]](https://arxiv.org/abs/2406.20087), [[code]](https://github.com/PKU-Alignment/ProgressGym).
 - **Strong and weak alignment of large language models with human values**, 2024.08, Nature Scientific Reports, [[paper]](https://www.nature.com/articles/s41598-024-70031-3).
 - **STELA: a community-centred approach to norm elicitation for AI alignment**, 2024.03, Nature Scientific Reports, [[paper]](https://www.nature.com/articles/s41598-024-56648-4).
 - **A Roadmap to Pluralistic Alignment**, ICML 2024, [[paper]](https://arxiv.org/abs/2402.05070), [[code]](https://github.com/jfisher52/AI_Pluralistic_Alignment).
