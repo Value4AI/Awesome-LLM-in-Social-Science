@@ -174,6 +174,7 @@ Welcome to contribute and discuss!
 - **Diverging Preferences: When do Annotators Disagree and do Models Know?**, 2024.10, [[paper]](https://arxiv.org/abs/2410.14632).
 
 ###  3.6. <a name='Ability'></a>🧠 Ability 
+- **AgentSense: Benchmarking Social Intelligence of Language Agents through Interactive Scenarios**, NAACL 2025, [[paper]](https://arxiv.org/abs/2410.19346).
 - **Cheating Automatic LLM Benchmarks: Null Models Achieve High Win Rates**, NeurIPS 2024, [[paper]](https://arxiv.org/abs/2410.07137).
 - **Replication for Language Models: Problems, Principles, and Best Practice for Political Science**, 2024.10, [[paper]](https://arthurspirling.org/documents/BarriePalmerSpirling_TrustMeBro.pdf).
 - **Can Language Models Reason about Individualistic Human Values and Preferences?**, 2024.10, [[paper]](https://arxiv.org/abs/2410.03868).
