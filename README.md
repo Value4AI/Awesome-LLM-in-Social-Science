@@ -156,6 +156,7 @@ Welcome to contribute and discuss!
 
 
 ###  3.3. <a name='Morality'></a>🔞 Morality
+- **Normative Evaluation of Large Language Models with Everyday Moral Dilemmas**, 2025.02, [[paper]](https://arxiv.org/abs/2501.18081).
 - **Investigating machine moral judgement through the Delphi experiment**, Nature Machine Intelligence, 2025.01, [[paper]](https://www.nature.com/articles/s42256-024-00969-6).
 - **Moral Foundations of Large Language Models**, 2023.10, [[paper]](https://arxiv.org/abs/2310.15337).
 - **Exploring the psychology of GPT-4's Moral and Legal Reasoning**, 2023.08, [[paper]](https://arxiv.org/abs/2308.01264).
