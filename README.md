@@ -167,6 +167,7 @@ Welcome to contribute and discuss!
 
 ###  3.4. <a name='Opinion'></a>🎤 Opinion
 - **Questioning the Survey Responses of Large Language Models**, NeurIPS 2024 Oral, [[paper]](https://arxiv.org/abs/2306.07951).
+- **Political Compass or Spinning Arrow? Towards More Meaningful Evaluations for Values and Opinions in Large Language Models**, ACL 2024, [paper](https://arxiv.org/abs/2402.16786).
 - **More human than human: measuring ChatGPT political bias**, 2023, [[paper]](https://link.springer.com/article/10.1007/s11127-023-01097-2).
 - **Towards Measuring the Representation of Subjective Global Opinions in Language Models**, 2023.07, [[paper]](https://arxiv.org/abs/2306.16388), [[website]](https://llmglobalvalues.anthropic.com/).
 
