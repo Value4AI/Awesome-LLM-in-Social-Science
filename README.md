@@ -78,41 +78,24 @@ Welcome to contribute and discuss!
 ##  3. <a name='EvaluatingLLM'></a>🔎 Evaluating LLM
 
 ###  3.1. <a name='Value'></a>❤️ Value
-
+- ⭐️ **Generative Psycho-Lexical Approach for Constructing Value Systems in Large Language Models**, 2025.02, [[paper]](https://arxiv.org/abs/2502.02444).
 - ⭐️ **Measuring Human and AI Values Based on Generative Psychometrics with Large Language Models**, AAAI 2025, [[paper]](https://arxiv.org/abs/2409.12106), [[code]](https://github.com/Value4AI/gpv).
-
 - ⭐️ **ValueBench: Towards Comprehensively Evaluating Value Orientations and Understanding of Large Language Models**, ACL 2024, [[paper]](https://arxiv.org/abs/2406.04214), [[code]](https://github.com/Value4AI/ValueBench).
-
 - **Value Compass Leaderboard: A Platform for Fundamental and Validated Evaluation of LLMs Values**, 2025.01, [[paper]](https://arxiv.org/abs/2501.07071).
-
 - **Causal Graph Guided Steering of LLM Values via Prompts and Sparse Autoencoders**, 2025.01, [[paper]](https://arxiv.org/abs/2501.00581).
-
 - **NORMAD: A Framework for Measuring the Cultural Adaptability of Large Language Models**, 2024.10, [[paper]](https://arxiv.org/abs/2404.12464).
-
 - **ValueCompass: A Framework of Fundamental Values for Human-AI Alignment**, 2024.09, [[paper]](https://arxiv.org/abs/2409.09586).
-
 - **LOCALVALUEBENCH: A Collaboratively Built and Extensible Benchmark for Evaluating Localized Value Alignment and Ethical Safety in Large Language Models**, 2024.08, [[paper]](https://arxiv.org/abs/2408.01460).
-
 - **Stick to your role! Stability of personal values expressed in large language models**, 2024.08, [[paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0309114).
-
 - **Raising the Bar: Investigating the Values of Large Language Models via Generative Evolving Testing**, 2024.07, [[paper]](https://arxiv.org/abs/2406.14230).
-
 - **Do LLMs have Consistent Values?**, 2024.07, [[paper]](https://arxiv.org/abs/2407.12878).
-
 - **CLAVE: An Adaptive Framework for Evaluating Values of LLM Generated Responses**, 2024.07, [[paper]](https://arxiv.org/abs/2407.10725).
-
 - **Are Large Language Models Consistent over Value-laden Questions?**, 2024.07, [[paper]](https://arxiv.org/abs/2407.02996).
-
 - **Beyond Human Norms: Unveiling Unique Values of Large Language Models through Interdisciplinary Approaches**, 2024.04, [[paper]](https://arxiv.org/abs/2404.12744).
-
 - **Heterogeneous Value Evaluation for Large Language Models**, 2023.03, [[paper]](https://arxiv.org/abs/2305.17147), [[code]](https://github.com/zowiezhang/A2EHV).
-
 - **Measuring Value Understanding in Language Models through Discriminator-Critique Gap**, 2023.10, [[paper]](https://arxiv.org/abs/2310.00378).
-
 - **Value FULCRA: Mapping Large Language Models to the Multidimensional Spectrum of Basic Human Values**, 2023.11, [[paper]](https://arxiv.org/abs/2311.10766).
-
 - **Value Kaleidoscope: Engaging AI with Pluralistic Human Values, Rights, and Duties**, AAAI24, [[paper]](https://arxiv.org/abs/2309.00779), [[code]](https://github.com/tsor13/kaleido).
-
 - **High-Dimension Human Value Representation in Large Language Models**, 2024.04, [[paper]](https://arxiv.org/abs/2404.07900), [[code]](https://github.com/HLTCHKUST/UniVaR).
 
 
