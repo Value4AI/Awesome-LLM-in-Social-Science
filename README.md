@@ -7,7 +7,7 @@ Below we compile *awesome* papers that
 - employ LLMs to **facilitate research, address issues, and enhance tools** in Social Science.
 - contribute **surveys**, **perspectives**, and **datasets** on the above topics.
 
-The above taxonomies are by no means orthogonal. For example, evaluations require simulations. We categorize these papers based on our understanding of their focus. This collection has **a special focus on Psychology and Human Values**.
+The above taxonomies are by no means orthogonal. For example, evaluations require simulations. We categorize these papers based on our understanding of their focus. This collection has **a special focus on Psychology and intrinsic values**.
 
 Welcome to contribute and discuss!
 
@@ -179,6 +179,8 @@ Welcome to contribute and discuss!
 - **AIR-Bench 2024: A Safety Benchmark Based on Risk Categories from Regulations and Policies**, 2024.07, [[paper]](https://arxiv.org/abs/2407.17436).
 
 ##  4. <a name='Toolenhancement'></a>⚒️ Tool enhancement
+- ⭐️ **Generative Psycho-Lexical Approach for Constructing Value Systems in Large Language Models**, 2025.02, [[paper]](https://arxiv.org/abs/2502.02444).
+- ⭐️ **Measuring Human and AI Values Based on Generative Psychometrics with Large Language Models**, AAAI 2025, [[paper]](https://arxiv.org/abs/2409.12106), [[code]](https://github.com/Value4AI/gpv).
 - **STAMPsy: Towards SpatioTemporal-Aware Mixed-Type Dialogues for Psychological Counseling**, AAAI 2025, [[paper]](https://arxiv.org/abs/2412.16674).
 - **ValueScope: Unveiling Implicit Norms and Values via Return Potential Model of Social Interactions**, 2024.10, [[paper]](https://arxiv.org/abs/2407.02472).
 - **AI can help humans find common ground in democratic deliberation**, 2024.10, Science, [[paper]](https://www.science.org/doi/10.1126/science.adq2852).
