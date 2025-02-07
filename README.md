@@ -188,6 +188,7 @@ Welcome to contribute and discuss!
 - **Generative Social Choice**, 2023.09, [[paper]](https://arxiv.org/abs/2309.01291)
 
 ##  5. <a name='Alignment'></a>⛑️ Alignment
+- ⭐️ **Generative Psycho-Lexical Approach for Constructing Value Systems in Large Language Models**, 2025.02, [[paper]](https://arxiv.org/abs/2502.02444).
 - **Scopes of Alignment**, 2025.01, AAAI 2025 workshop, [[paper]](https://arxiv.org/abs/2501.12405)
 - **Aligning Large Language Models with Human Opinions through Persona Selection and Value-Belief-Norm Reasoning**, 2024.11, [[paper]](https://arxiv.org/pdf/2311.08385).
 - **SafetyAnalyst: Interpretable, transparent, and steerable LLM safety moderation**, 2024.10, [[paper]](https://arxiv.org/abs/2410.16665).
