@@ -191,6 +191,7 @@ Welcome to contribute and discuss!
 
 ##  5. <a name='Alignment'></a>⛑️ Alignment
 - ⭐️ **Generative Psycho-Lexical Approach for Constructing Value Systems in Large Language Models**, 2025.02, [[paper]](https://arxiv.org/abs/2502.02444).
+- **Position: We Need An Adaptive Interpretation of Helpful, Honest, and Harmless Principles**, 2025.02, [[paper]](https://arxiv.org/abs/2502.06059).
 - **Scopes of Alignment**, 2025.01, AAAI 2025 workshop, [[paper]](https://arxiv.org/abs/2501.12405)
 - **Aligning Large Language Models with Human Opinions through Persona Selection and Value-Belief-Norm Reasoning**, 2024.11, [[paper]](https://arxiv.org/pdf/2311.08385).
 - **SafetyAnalyst: Interpretable, transparent, and steerable LLM safety moderation**, 2024.10, [[paper]](https://arxiv.org/abs/2410.16665).
@@ -206,6 +207,7 @@ Welcome to contribute and discuss!
 - **Training Socially Aligned Language Models in Simulated Human Society**, 2023, [[paper]](https://arxiv.org/abs/2305.16960), [[code]](https://github.com/agi-templar/Stable-Alignment).
 - **Fine-tuning language models to find agreement among humans with diverse preferences**, 2022, [[paper]](https://arxiv.org/abs/2211.15006).
 - **ValueNet: A New Dataset for Human Value Driven Dialogue System**, AAAI 2022, [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/21368), [[dataset]](https://liang-qiu.github.io/ValueNet/).
+- **Towards Pluralistic Value Alignment: Aggregating Value Systems through ℓp-Regression**, AAMAS 2022 workshop, [[paper]](https://openaccess.city.ac.uk/id/eprint/31381/).
 
 ###  5.1. <a name='PluralisticAlignment'></a>🌈 Pluralistic Alignment
 - [*Benchmark*] **Benchmarking Distributional Alignment of Large Language Models**, 2024.11, [[paper]](https://arxiv.org/abs/2411.05403).
