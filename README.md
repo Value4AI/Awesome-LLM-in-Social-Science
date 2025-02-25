@@ -39,6 +39,7 @@ Welcome to contribute and discuss!
 ---
 
 ##  1. <a name='Survey'></a>📚 Survey 
+- **On the Trustworthiness of Generative Foundation Models: Guideline, Assessment, and Perspective**, 2025.02, [[paper]](https://arxiv.org/abs/2502.14296).
 - **The Road to Artificial SuperIntelligence: A Comprehensive Survey of Superalignment**, 2024.12, [[paper]](https://arxiv.org/abs/2412.16468).
 - **Large Language Model Safety: A Holistic Survey**, 2024.12, [[paper]](https://arxiv.org/abs/2412.17686).
 - **Political-LLM: Large Language Models in Political Science**, 2024.12, [[paper]](https://arxiv.org/abs/2412.06864), [[website]](https://political-llm.org/).
@@ -149,6 +150,7 @@ Welcome to contribute and discuss!
 
 
 ###  3.4. <a name='Opinion'></a>🎤 Opinion
+- **Large language models that replace human participants can harmfully misportray and flatten identity groups**, Nature Machine Intelligence, 2025, [[paper]](https://www.nature.com/articles/s42256-025-00986-z).
 - **Questioning the Survey Responses of Large Language Models**, NeurIPS 2024 Oral, [[paper]](https://arxiv.org/abs/2306.07951).
 - **Political Compass or Spinning Arrow? Towards More Meaningful Evaluations for Values and Opinions in Large Language Models**, ACL 2024, [paper](https://arxiv.org/abs/2402.16786).
 - **More human than human: measuring ChatGPT political bias**, 2023, [[paper]](https://link.springer.com/article/10.1007/s11127-023-01097-2).
