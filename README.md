@@ -61,7 +61,7 @@ Welcome to contribute and discuss!
 - **AI Alignment: A Comprehensive Survey**, 2023.11, [[paper]](https://arxiv.org/abs/2310.19852), [[website]](https://alignmentsurvey.com/).
 - **Aligning Large Language Models with Human: A Survey**, 2023, [[paper]](https://arxiv.org/abs/2307.12966), [[repo]](https://github.com/GaryYufei/AlignLLMHumanSurvey).
 - **Large Language Model Alignment: A Survey**, 2023, [[paper]](https://arxiv.org/abs/2309.15025).
-- **Large Language Models Empowered Agent-based Modeling and Simulation: A Survey and Perspectives**, 2023.12, [[paper]](https://arxiv.org/abs/2312.11970).
+- **Large Language Models Empowered Agent-based Modeling and Simulation: A Survey and Perspectives**, 2023.12, Nature humanities and social sciences communications, [[paper]](https://arxiv.org/abs/2312.11970).
 - **A Survey on Evaluation of Large Language Models**, 2023.07, [[paper]](https://arxiv.org/abs/2307.03109), [[repo]](https://github.com/MLGroupJLU/LLM-eval-survey).
 - **From Instructions to Intrinsic Human Values -- A Survey of Alignment Goals for Big Models**, 2023.08, [[paper]](https://arxiv.org/abs/2308.12014), [[repo]](https://github.com/ValueCompass/Alignment-Goal-Survey).
 
@@ -140,6 +140,7 @@ Welcome to contribute and discuss!
 
 
 ###  3.3. <a name='Morality'></a>🔞 Morality
+- **Revealing the Pragmatic Dilemma for Moral Reasoning Acquisition in Language Models**, 2025.02, [[paper]](https://arxiv.org/abs/2502.16600).
 - **Normative Evaluation of Large Language Models with Everyday Moral Dilemmas**, 2025.02, [[paper]](https://arxiv.org/abs/2501.18081).
 - **Investigating machine moral judgement through the Delphi experiment**, Nature Machine Intelligence, 2025.01, [[paper]](https://www.nature.com/articles/s42256-024-00969-6).
 - **Moral Foundations of Large Language Models**, 2023.10, [[paper]](https://arxiv.org/abs/2310.15337).
