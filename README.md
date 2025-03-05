@@ -185,6 +185,7 @@ Welcome to contribute and discuss!
 - ⭐️ **Generative Psycho-Lexical Approach for Constructing Value Systems in Large Language Models**, 2025.02, [[paper]](https://arxiv.org/abs/2502.02444).
 - ⭐️ **Measuring Human and AI Values Based on Generative Psychometrics with Large Language Models**, AAAI 2025, [[paper]](https://arxiv.org/abs/2409.12106), [[code]](https://github.com/Value4AI/gpv).
 - **STAMPsy: Towards SpatioTemporal-Aware Mixed-Type Dialogues for Psychological Counseling**, AAAI 2025, [[paper]](https://arxiv.org/abs/2412.16674).
+- **Psychogat: A novel psychological measurement paradigm through interactive fiction games with llm agents**, ACL 2024, [[paper]](https://arxiv.org/abs/2402.12326).
 - **ValueScope: Unveiling Implicit Norms and Values via Return Potential Model of Social Interactions**, 2024.10, [[paper]](https://arxiv.org/abs/2407.02472).
 - **AI can help humans find common ground in democratic deliberation**, 2024.10, Science, [[paper]](https://www.science.org/doi/10.1126/science.adq2852).
 - **PsyDI: Towards a Personalized and Progressively In-depth Chatbot for Psychological Measurements**, 2024, [[paper]](https://arxiv.org/abs/2408.03337), [[code]](https://github.com/opendilab/PsyDI).
