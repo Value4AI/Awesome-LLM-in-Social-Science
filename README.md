@@ -101,7 +101,7 @@ Welcome to contribute and discuss!
 
 
 ###  3.2. <a name='Personality'></a>🩷 Personality
-
+- **R.U.Psycho? Robust Unified Psychometric Testing of Language Models**, 2025.03, [[paper]](https://arxiv.org/abs/2503.10229).
 - **Evaluating the ability of large language models to emulate personality**, 2025.01, Nature Scientific Reports, [[paper]](https://www.nature.com/articles/s41598-024-84109-5).
 - **Evaluating the efficacy of LLMs to emulate realistic human personalities**, AAAI 2024, [[paper]](https://ojs.aaai.org/index.php/AIIDE/article/view/31867).
 - **Quantifying ai psychology: A psychometrics benchmark for large language models**, 2024.07, [[paper]](https://arxiv.org/abs/2406.17675).
@@ -162,7 +162,9 @@ Welcome to contribute and discuss!
 - **Diverging Preferences: When do Annotators Disagree and do Models Know?**, 2024.10, [[paper]](https://arxiv.org/abs/2410.14632).
 
 ###  3.6. <a name='Ability'></a>🧠 Ability 
+- **Improving LLM Leaderboards with Psychometrical Methodology**, 2025.01, [[paper]](https://arxiv.org/abs/2501.17200).
 - **AgentSense: Benchmarking Social Intelligence of Language Agents through Interactive Scenarios**, NAACL 2025, [[paper]](https://arxiv.org/abs/2410.19346).
+- **A Novel Psychometrics-Based Approach to Developing Professional Competency Benchmark for Large Language Models**, 2024.11, [[paper]](https://arxiv.org/abs/2411.00045).
 - **Cheating Automatic LLM Benchmarks: Null Models Achieve High Win Rates**, NeurIPS 2024, [[paper]](https://arxiv.org/abs/2410.07137).
 - **Replication for Language Models: Problems, Principles, and Best Practice for Political Science**, 2024.10, [[paper]](https://arthurspirling.org/documents/BarriePalmerSpirling_TrustMeBro.pdf).
 - **Can Language Models Reason about Individualistic Human Values and Preferences?**, 2024.10, [[paper]](https://arxiv.org/abs/2410.03868).
