@@ -82,6 +82,7 @@ Welcome to contribute and discuss!
 - ⭐️ **Generative Psycho-Lexical Approach for Constructing Value Systems in Large Language Models**, 2025.02, [[paper]](https://arxiv.org/abs/2502.02444).
 - ⭐️ **Measuring Human and AI Values Based on Generative Psychometrics with Large Language Models**, AAAI 2025, [[paper]](https://arxiv.org/abs/2409.12106), [[code]](https://github.com/Value4AI/gpv).
 - ⭐️ **ValueBench: Towards Comprehensively Evaluating Value Orientations and Understanding of Large Language Models**, ACL 2024, [[paper]](https://arxiv.org/abs/2406.04214), [[code]](https://github.com/Value4AI/ValueBench).
+- **Value Profiles for Encoding Human Variation**, 2025.03, [[paper]](https://arxiv.org/abs/2503.15484).
 - **Value Compass Leaderboard: A Platform for Fundamental and Validated Evaluation of LLMs Values**, 2025.01, [[paper]](https://arxiv.org/abs/2501.07071).
 - **Causal Graph Guided Steering of LLM Values via Prompts and Sparse Autoencoders**, 2025.01, [[paper]](https://arxiv.org/abs/2501.00581).
 - **NORMAD: A Framework for Measuring the Cultural Adaptability of Large Language Models**, 2024.10, [[paper]](https://arxiv.org/abs/2404.12464).
