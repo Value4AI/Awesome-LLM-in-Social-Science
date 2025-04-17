@@ -67,6 +67,7 @@ Welcome to contribute and discuss!
 
 
 ##  2. <a name='Dataset'></a>🗂️ Dataset
+- **COIG-P: A High-Quality and Large-Scale Chinese Preference Dataset for Alignment with Human Values**, 2025.04, [[paper]](https://arxiv.org/abs/2504.05535).
 - **The PRISM Alignment Dataset: What Participatory, Representative and Individualised Human Feedback Reveals About the Subjective and Multicultural Alignment of Large Language Models**, NeurIPS 2024 D&B Track best paper, [[paper]](https://arxiv.org/abs/2404.16019).
 - ⭐️ **ValueBench: Towards Comprehensively Evaluating Value Orientations and Understanding of Large Language Models**, ACL 2024, [[paper]](https://arxiv.org/abs/2406.04214), [[code]](https://github.com/Value4AI/ValueBench).
 - **Automating Dataset Updates Towards Reliable and Timely Evaluation of Large Language Models**, NeurIPS 2024, [[paper]](https://arxiv.org/abs/2402.11894).
@@ -197,7 +198,9 @@ Welcome to contribute and discuss!
 - **Generative Social Choice**, 2023.09, [[paper]](https://arxiv.org/abs/2309.01291)
 
 ##  5. <a name='Alignment'></a>⛑️ Alignment
+- **COIG-P: A High-Quality and Large-Scale Chinese Preference Dataset for Alignment with Human Values**, 2025.04, [[paper]](https://arxiv.org/abs/2504.05535).
 - ⭐️ **Generative Psycho-Lexical Approach for Constructing Value Systems in Large Language Models**, 2025.02, [[paper]](https://arxiv.org/abs/2502.02444).
+- **Optimizing generative AI by backpropagating language model feedback**, Nature, 2025.03, [[paper]](https://www.nature.com/articles/s41586-025-08661-4).
 - **Position: We Need An Adaptive Interpretation of Helpful, Honest, and Harmless Principles**, 2025.02, [[paper]](https://arxiv.org/abs/2502.06059).
 - **Scopes of Alignment**, 2025.01, AAAI 2025 workshop, [[paper]](https://arxiv.org/abs/2501.12405)
 - **Aligning Large Language Models with Human Opinions through Persona Selection and Value-Belief-Norm Reasoning**, 2024.11, [[paper]](https://arxiv.org/pdf/2311.08385).
