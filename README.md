@@ -1,5 +1,10 @@
 # Awesome-LLM-in-Social-Science
 
+---
+
+### 📅 Stay Tuned! New Paper Collection Repo Coming Soon! 📚✨
+
+---
 
 Below we compile *awesome* papers that  
 - **evaluate** Large Language Models (LLMs) from a perspective of Social Science.
