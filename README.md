@@ -250,6 +250,7 @@ Welcome to contribute and discuss!
 - **Cultural Palette: Pluralising Culture Alignment via Multi-agent Palette**, 2024.12, [[paper]](https://arxiv.org/abs/2412.11167).
 
 ##  6. <a name='Simulation'></a>🚀 Simulation
+- **TwinMarket: A Scalable Behavioral and Social Simulation for Financial Markets**, 2025.02, [[paper]](https://arxiv.org/abs/2502.01506).
 - **AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society**, 2025.02, [[paper]](https://arxiv.org/abs/2502.08691), [[code]](https://github.com/tsinghua-fib-lab/agentsociety/).
 - **Political Actor Agent: Simulating Legislative System for Roll Call Votes Prediction with Large Language Models**, AAAI 2025, [[paper]](https://arxiv.org/abs/2412.07144).
 - **TrendSim: Simulating Trending Topics in Social Media Under Poisoning Attacks with LLM-based Multi-agent System**, 2024.12, [[paper]](https://arxiv.org/abs/2412.12196).
