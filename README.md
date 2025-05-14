@@ -1,10 +1,13 @@
 # Awesome-LLM-in-Social-Science
 
----
 
-### 📅 Stay Tuned! New Paper Collection Repo Coming Soon! 📚✨
 
----
+> **🔗 Recommended Resource:**  
+> Check out [Awesome-LLM-Psychometrics](https://github.com/ValueByte-AI/Awesome-LLM-Psychometrics) for a comprehensive collection of papers and resources on LLM psychometrics, including evaluation, validation, and enhancement.  
+>  
+
+
+
 
 Below we compile *awesome* papers that  
 - **evaluate** Large Language Models (LLMs) from a perspective of Social Science.
@@ -18,7 +21,19 @@ Welcome to contribute and discuss!
 
 ---
 
-🤩 Papers marked with a ⭐️ are contributed by the maintainers of this repository. If you find them useful, we would greatly appreciate it if you could give the repository a star or cite our paper.
+🤩 Papers marked with a ⭐️ are contributed by the maintainers of this repository. If you find them useful, we would greatly appreciate it if you could give the repository a star and cite our paper.
+
+
+```bibtex
+@article{ye2025large,
+  title={Large Language Model Psychometrics: A Systematic Review of Evaluation, Validation, and Enhancement},
+  author={Ye, Haoran and Jin, Jing and Xie, Yuhang and Zhang, Xin and Song, Guojie},
+  journal={arXiv preprint arXiv:2505.08245},
+  year={2025},
+  note={Project website: \url{https://llm-psychometrics.com}, GitHub: \url{https://github.com/ValueByte-AI/Awesome-LLM-Psychometrics}}
+}
+```
+
 
 ---
 
